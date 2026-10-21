@@ -1,735 +1,728 @@
 {
-  "generated_at": "2026-10-21T20:09:50Z",
-  "whale_list_generated_at": "2026-10-21T17:07:37Z",
+  "generated_at": "2026-10-21T23:19:40Z",
+  "whale_list_generated_at": "2026-10-21T21:37:47Z",
   "whale_count": 15,
   "whale_count_attempted": 75,
   "errors": 0,
   "aggregate": {
-    "total_notional": 2135067329.85,
-    "total_long_notional": 45895337.84,
-    "total_short_notional": 2089171992.01,
-    "long_pct": 2.1,
-    "short_pct": 97.9
+    "total_notional": 2111257762.69,
+    "total_long_notional": 50831008.59,
+    "total_short_notional": 2060426754.1,
+    "long_pct": 2.4,
+    "short_pct": 97.6
   },
   "by_coin": {
     "ETH": {
-      "long_notional": 137967.69,
-      "short_notional": 620473425.1,
-      "net_notional": -620335457.41,
+      "long_notional": 368057.08,
+      "short_notional": 620690906.4,
+      "net_notional": -620322849.32,
       "long_count": 2,
       "short_count": 9
     },
     "BTC": {
-      "long_notional": 8409669.0,
-      "short_notional": 562466906.91,
-      "net_notional": -554057237.91,
-      "long_count": 2,
-      "short_count": 9
+      "long_notional": 12852707.61,
+      "short_notional": 551762658.39,
+      "net_notional": -538909950.78,
+      "long_count": 3,
+      "short_count": 8
     },
     "ZEC": {
-      "long_notional": 432329.44,
-      "short_notional": 192135579.96,
-      "net_notional": -191703250.53,
+      "long_notional": 450160.46,
+      "short_notional": 188295769.34,
+      "net_notional": -187845608.88,
       "long_count": 3,
       "short_count": 8
     },
     "HYPE": {
-      "long_notional": 8633.09,
-      "short_notional": 187843823.87,
-      "net_notional": -187835190.77,
-      "long_count": 1,
-      "short_count": 11
+      "long_notional": 0.0,
+      "short_notional": 180550509.37,
+      "net_notional": -180550509.37,
+      "long_count": 0,
+      "short_count": 12
     },
     "SOL": {
-      "long_notional": 148175.59,
-      "short_notional": 142362725.22,
-      "net_notional": -142214549.62,
-      "long_count": 3,
-      "short_count": 8
+      "long_notional": 88646.18,
+      "short_notional": 141570768.89,
+      "net_notional": -141482122.72,
+      "long_count": 2,
+      "short_count": 9
     },
     "NEAR": {
-      "long_notional": 30679764.87,
-      "short_notional": 50184891.09,
-      "net_notional": -19505126.21,
+      "long_notional": 30560934.49,
+      "short_notional": 48843699.44,
+      "net_notional": -18282764.95,
       "long_count": 3,
       "short_count": 7
     },
     "XRP": {
-      "long_notional": 9630.63,
-      "short_notional": 49842134.58,
-      "net_notional": -49832503.95,
-      "long_count": 1,
-      "short_count": 10
+      "long_notional": 0.0,
+      "short_notional": 48510798.56,
+      "net_notional": -48510798.56,
+      "long_count": 0,
+      "short_count": 11
     },
     "PUMP": {
-      "long_notional": 7929.32,
-      "short_notional": 39900744.77,
-      "net_notional": -39892815.45,
+      "long_notional": 16972.12,
+      "short_notional": 41318283.12,
+      "net_notional": -41301311.0,
       "long_count": 2,
       "short_count": 7
     },
     "DOGE": {
-      "long_notional": 5245.68,
-      "short_notional": 24264531.28,
-      "net_notional": -24259285.6,
-      "long_count": 1,
-      "short_count": 7
+      "long_notional": 0.0,
+      "short_notional": 23956739.54,
+      "net_notional": -23956739.54,
+      "long_count": 0,
+      "short_count": 8
     },
     "ENA": {
-      "long_notional": 15579.84,
-      "short_notional": 22047131.91,
-      "net_notional": -22031552.07,
+      "long_notional": 8382.28,
+      "short_notional": 21657533.95,
+      "net_notional": -21649151.67,
       "long_count": 1,
       "short_count": 7
     },
     "ZRO": {
-      "long_notional": 1597618.1,
-      "short_notional": 18554180.42,
-      "net_notional": -16956562.32,
+      "long_notional": 1539426.2,
+      "short_notional": 17885445.76,
+      "net_notional": -16346019.56,
       "long_count": 1,
       "short_count": 5
     },
     "WLD": {
-      "long_notional": 0.0,
-      "short_notional": 18082067.42,
-      "net_notional": -18082067.42,
-      "long_count": 0,
-      "short_count": 7
+      "long_notional": 1459.21,
+      "short_notional": 18438791.5,
+      "net_notional": -18437332.29,
+      "long_count": 1,
+      "short_count": 6
     },
     "XPL": {
-      "long_notional": 4598.15,
-      "short_notional": 15765119.93,
-      "net_notional": -15760521.78,
+      "long_notional": 5777.15,
+      "short_notional": 15370894.88,
+      "net_notional": -15365117.73,
       "long_count": 1,
       "short_count": 8
     },
     "VVV": {
-      "long_notional": 3745.83,
-      "short_notional": 13818524.39,
-      "net_notional": -13814778.56,
-      "long_count": 1,
-      "short_count": 7
+      "long_notional": 0.0,
+      "short_notional": 13674258.2,
+      "net_notional": -13674258.2,
+      "long_count": 0,
+      "short_count": 8
     },
     "LINK": {
-      "long_notional": 357344.1,
-      "short_notional": 13405976.59,
-      "net_notional": -13048632.5,
-      "long_count": 2,
-      "short_count": 5
-    },
-    "LIT": {
-      "long_notional": 425789.23,
-      "short_notional": 11474452.41,
-      "net_notional": -11048663.18,
-      "long_count": 2,
+      "long_notional": 346572.76,
+      "short_notional": 13232106.53,
+      "net_notional": -12885533.77,
+      "long_count": 1,
       "short_count": 6
     },
     "SUI": {
-      "long_notional": 68259.79,
-      "short_notional": 11603227.8,
-      "net_notional": -11534968.01,
+      "long_notional": 67549.47,
+      "short_notional": 11603960.61,
+      "net_notional": -11536411.14,
       "long_count": 1,
       "short_count": 5
     },
     "FARTCOIN": {
-      "long_notional": 317969.16,
-      "short_notional": 9974356.21,
-      "net_notional": -9656387.05,
-      "long_count": 2,
-      "short_count": 7
+      "long_notional": 314752.99,
+      "short_notional": 9941937.37,
+      "net_notional": -9627184.38,
+      "long_count": 1,
+      "short_count": 8
     },
-    "CASHCAT": {
-      "long_notional": 0.0,
-      "short_notional": 7244890.43,
-      "net_notional": -7244890.43,
-      "long_count": 0,
-      "short_count": 4
+    "LIT": {
+      "long_notional": 1002725.5,
+      "short_notional": 9122778.29,
+      "net_notional": -8120052.79,
+      "long_count": 3,
+      "short_count": 5
     },
     "XMR": {
       "long_notional": 0.0,
-      "short_notional": 7140940.38,
-      "net_notional": -7140940.38,
+      "short_notional": 7289651.88,
+      "net_notional": -7289651.88,
       "long_count": 0,
       "short_count": 2
     },
-    "UNI": {
+    "CASHCAT": {
       "long_notional": 0.0,
-      "short_notional": 7118520.12,
-      "net_notional": -7118520.12,
+      "short_notional": 7028067.54,
+      "net_notional": -7028067.54,
       "long_count": 0,
-      "short_count": 8
+      "short_count": 4
+    },
+    "UNI": {
+      "long_notional": 463.97,
+      "short_notional": 6994298.03,
+      "net_notional": -6993834.06,
+      "long_count": 1,
+      "short_count": 7
     },
     "BNB": {
       "long_notional": 0.0,
-      "short_notional": 5444901.61,
-      "net_notional": -5444901.61,
+      "short_notional": 5446959.48,
+      "net_notional": -5446959.48,
       "long_count": 0,
       "short_count": 8
     },
     "PONS": {
-      "long_notional": 4209.78,
-      "short_notional": 5309090.23,
-      "net_notional": -5304880.45,
+      "long_notional": 4161.73,
+      "short_notional": 5254479.46,
+      "net_notional": -5250317.72,
       "long_count": 1,
       "short_count": 4
     },
     "kPEPE": {
-      "long_notional": 28.58,
-      "short_notional": 4882317.55,
-      "net_notional": -4882288.97,
-      "long_count": 1,
-      "short_count": 4
+      "long_notional": 0.0,
+      "short_notional": 4748839.94,
+      "net_notional": -4748839.94,
+      "long_count": 0,
+      "short_count": 5
     },
     "AAVE": {
       "long_notional": 0.0,
-      "short_notional": 4554386.17,
-      "net_notional": -4554386.17,
+      "short_notional": 4500854.79,
+      "net_notional": -4500854.79,
       "long_count": 0,
       "short_count": 5
     },
     "ASTER": {
       "long_notional": 0.0,
-      "short_notional": 3888486.98,
-      "net_notional": -3888486.98,
+      "short_notional": 3893270.63,
+      "net_notional": -3893270.63,
       "long_count": 0,
       "short_count": 6
     },
     "ONDO": {
-      "long_notional": 224167.43,
-      "short_notional": 3567108.23,
-      "net_notional": -3342940.8,
+      "long_notional": 223198.4,
+      "short_notional": 3523868.12,
+      "net_notional": -3300669.72,
       "long_count": 2,
       "short_count": 5
     },
     "TAO": {
-      "long_notional": 42564.84,
-      "short_notional": 3704622.86,
-      "net_notional": -3662058.02,
-      "long_count": 3,
-      "short_count": 4
+      "long_notional": 40668.36,
+      "short_notional": 3671279.47,
+      "net_notional": -3630611.11,
+      "long_count": 2,
+      "short_count": 5
     },
     "STRK": {
-      "long_notional": 126.33,
-      "short_notional": 3465627.09,
-      "net_notional": -3465500.76,
-      "long_count": 1,
-      "short_count": 3
+      "long_notional": 0.0,
+      "short_notional": 3314730.16,
+      "net_notional": -3314730.16,
+      "long_count": 0,
+      "short_count": 4
     },
     "GRASS": {
       "long_notional": 0.0,
-      "short_notional": 3291494.68,
-      "net_notional": -3291494.68,
+      "short_notional": 3198697.17,
+      "net_notional": -3198697.17,
       "long_count": 0,
       "short_count": 4
     },
     "AERO": {
       "long_notional": 0.0,
-      "short_notional": 2724857.39,
-      "net_notional": -2724857.39,
+      "short_notional": 2628574.12,
+      "net_notional": -2628574.12,
       "long_count": 0,
       "short_count": 3
     },
     "ADA": {
-      "long_notional": 28806.08,
-      "short_notional": 2316485.79,
-      "net_notional": -2287679.71,
+      "long_notional": 22807.3,
+      "short_notional": 2301112.68,
+      "net_notional": -2278305.38,
       "long_count": 1,
       "short_count": 4
     },
     "AVAX": {
       "long_notional": 0.0,
-      "short_notional": 2336482.83,
-      "net_notional": -2336482.83,
+      "short_notional": 2288596.26,
+      "net_notional": -2288596.26,
       "long_count": 0,
       "short_count": 6
     },
     "GRAM": {
       "long_notional": 0.0,
-      "short_notional": 1804873.7,
-      "net_notional": -1804873.7,
+      "short_notional": 1875423.74,
+      "net_notional": -1875423.74,
       "long_count": 0,
       "short_count": 5
     },
     "LTC": {
-      "long_notional": 2209.03,
-      "short_notional": 1683869.37,
-      "net_notional": -1681660.34,
-      "long_count": 1,
-      "short_count": 3
+      "long_notional": 0.0,
+      "short_notional": 1664854.82,
+      "net_notional": -1664854.82,
+      "long_count": 0,
+      "short_count": 4
     },
     "MON": {
-      "long_notional": 107988.69,
-      "short_notional": 1400764.57,
-      "net_notional": -1292775.88,
+      "long_notional": 106205.07,
+      "short_notional": 1377230.57,
+      "net_notional": -1271025.5,
       "long_count": 1,
       "short_count": 5
     },
     "ARB": {
       "long_notional": 0.0,
-      "short_notional": 1410591.83,
-      "net_notional": -1410591.83,
+      "short_notional": 1304057.9,
+      "net_notional": -1304057.9,
       "long_count": 0,
       "short_count": 4
     },
     "INJ": {
       "long_notional": 0.0,
-      "short_notional": 1241975.48,
-      "net_notional": -1241975.48,
+      "short_notional": 1257200.23,
+      "net_notional": -1257200.23,
       "long_count": 0,
       "short_count": 5
     },
     "PAXG": {
-      "long_notional": 912742.14,
-      "short_notional": 299457.78,
-      "net_notional": 613284.36,
+      "long_notional": 907102.49,
+      "short_notional": 298979.93,
+      "net_notional": 608122.56,
       "long_count": 3,
       "short_count": 1
     },
     "TRX": {
-      "long_notional": 1071127.6,
-      "short_notional": 61027.28,
-      "net_notional": 1010100.32,
+      "long_notional": 1068195.22,
+      "short_notional": 60860.21,
+      "net_notional": 1007335.01,
       "long_count": 2,
       "short_count": 1
     },
     "VIRTUAL": {
       "long_notional": 0.0,
-      "short_notional": 1110026.98,
-      "net_notional": -1110026.98,
+      "short_notional": 1096954.41,
+      "net_notional": -1096954.41,
       "long_count": 0,
       "short_count": 3
     },
     "CRV": {
       "long_notional": 0.0,
-      "short_notional": 867763.67,
-      "net_notional": -867763.67,
+      "short_notional": 898057.91,
+      "net_notional": -898057.91,
       "long_count": 0,
       "short_count": 3
     },
     "kBONK": {
       "long_notional": 0.0,
-      "short_notional": 751780.17,
-      "net_notional": -751780.17,
+      "short_notional": 753468.45,
+      "net_notional": -753468.45,
       "long_count": 0,
       "short_count": 3
     },
     "TIA": {
       "long_notional": 0.0,
-      "short_notional": 661305.71,
-      "net_notional": -661305.71,
+      "short_notional": 641976.33,
+      "net_notional": -641976.33,
       "long_count": 0,
       "short_count": 3
     },
     "LDO": {
       "long_notional": 0.0,
-      "short_notional": 487707.99,
-      "net_notional": -487707.99,
+      "short_notional": 492978.37,
+      "net_notional": -492978.37,
       "long_count": 0,
       "short_count": 2
     },
     "PENGU": {
-      "long_notional": 1067.36,
-      "short_notional": 418688.74,
-      "net_notional": -417621.38,
+      "long_notional": 1051.49,
+      "short_notional": 408198.68,
+      "net_notional": -407147.19,
       "long_count": 1,
       "short_count": 3
     },
-    "JUP": {
-      "long_notional": 354428.51,
-      "short_notional": 39570.83,
-      "net_notional": 314857.67,
-      "long_count": 1,
-      "short_count": 1
-    },
     "BCH": {
       "long_notional": 0.0,
-      "short_notional": 392964.27,
-      "net_notional": -392964.27,
+      "short_notional": 408444.53,
+      "net_notional": -408444.53,
       "long_count": 0,
       "short_count": 2
     },
     "EIGEN": {
       "long_notional": 0.0,
-      "short_notional": 391835.7,
-      "net_notional": -391835.7,
+      "short_notional": 392357.5,
+      "net_notional": -392357.5,
       "long_count": 0,
       "short_count": 2
     },
     "SPX": {
       "long_notional": 0.0,
-      "short_notional": 360395.21,
-      "net_notional": -360395.21,
+      "short_notional": 379768.97,
+      "net_notional": -379768.97,
       "long_count": 0,
       "short_count": 4
     },
+    "JUP": {
+      "long_notional": 331624.77,
+      "short_notional": 38847.58,
+      "net_notional": 292777.19,
+      "long_count": 1,
+      "short_count": 1
+    },
     "POPCAT": {
-      "long_notional": 15.22,
-      "short_notional": 322230.01,
-      "net_notional": -322214.79,
+      "long_notional": 15.15,
+      "short_notional": 320905.88,
+      "net_notional": -320890.73,
       "long_count": 1,
       "short_count": 3
     },
     "ETHFI": {
-      "long_notional": 6.49,
-      "short_notional": 316484.39,
-      "net_notional": -316477.9,
+      "long_notional": 6.39,
+      "short_notional": 311715.23,
+      "net_notional": -311708.84,
       "long_count": 1,
       "short_count": 2
     },
     "POL": {
       "long_notional": 0.0,
-      "short_notional": 314528.88,
-      "net_notional": -314528.88,
+      "short_notional": 310856.12,
+      "net_notional": -310856.12,
       "long_count": 0,
       "short_count": 2
     },
     "FET": {
-      "long_notional": 2089.53,
-      "short_notional": 301909.92,
-      "net_notional": -299820.39,
+      "long_notional": 2069.6,
+      "short_notional": 299029.8,
+      "net_notional": -296960.2,
       "long_count": 1,
       "short_count": 1
     },
     "HBAR": {
       "long_notional": 0.0,
-      "short_notional": 302250.28,
-      "net_notional": -302250.28,
+      "short_notional": 297546.43,
+      "net_notional": -297546.43,
       "long_count": 0,
       "short_count": 1
     },
     "APT": {
       "long_notional": 0.0,
-      "short_notional": 264975.3,
-      "net_notional": -264975.3,
+      "short_notional": 269846.92,
+      "net_notional": -269846.92,
       "long_count": 0,
       "short_count": 3
     },
     "MORPHO": {
       "long_notional": 0.0,
-      "short_notional": 260254.81,
-      "net_notional": -260254.81,
+      "short_notional": 247800.52,
+      "net_notional": -247800.52,
       "long_count": 0,
       "short_count": 2
     },
     "XLM": {
       "long_notional": 0.0,
-      "short_notional": 230584.11,
-      "net_notional": -230584.11,
+      "short_notional": 238325.11,
+      "net_notional": -238325.11,
       "long_count": 0,
       "short_count": 2
     },
     "SEI": {
       "long_notional": 0.0,
-      "short_notional": 194276.62,
-      "net_notional": -194276.62,
+      "short_notional": 188456.46,
+      "net_notional": -188456.46,
       "long_count": 0,
       "short_count": 3
     },
     "MET": {
-      "long_notional": 8101.19,
-      "short_notional": 154222.43,
-      "net_notional": -146121.23,
+      "long_notional": 8071.67,
+      "short_notional": 150574.06,
+      "net_notional": -142502.39,
       "long_count": 1,
       "short_count": 1
     },
     "MELANIA": {
-      "long_notional": 153730.03,
-      "short_notional": 502.53,
-      "net_notional": 153227.5,
+      "long_notional": 152622.16,
+      "short_notional": 498.9,
+      "net_notional": 152123.26,
       "long_count": 1,
       "short_count": 2
     },
-    "AVNT": {
-      "long_notional": 12567.65,
-      "short_notional": 125379.27,
-      "net_notional": -112811.62,
-      "long_count": 1,
-      "short_count": 1
-    },
     "CC": {
       "long_notional": 0.0,
-      "short_notional": 137064.22,
-      "net_notional": -137064.22,
+      "short_notional": 134957.2,
+      "net_notional": -134957.2,
       "long_count": 0,
       "short_count": 1
     },
+    "AVNT": {
+      "long_notional": 12364.13,
+      "short_notional": 122471.49,
+      "net_notional": -110107.36,
+      "long_count": 1,
+      "short_count": 1
+    },
     "SNX": {
-      "long_notional": 121058.64,
+      "long_notional": 120515.43,
       "short_notional": 0.0,
-      "net_notional": 121058.64,
+      "net_notional": 120515.43,
       "long_count": 1,
       "short_count": 0
     },
     "WIF": {
       "long_notional": 0.0,
-      "short_notional": 108501.94,
-      "net_notional": -108501.94,
+      "short_notional": 112418.46,
+      "net_notional": -112418.46,
       "long_count": 0,
       "short_count": 3
     },
     "ALGO": {
       "long_notional": 0.0,
-      "short_notional": 103810.99,
-      "net_notional": -103810.99,
+      "short_notional": 102588.51,
+      "net_notional": -102588.51,
       "long_count": 0,
       "short_count": 1
     },
     "kSHIB": {
       "long_notional": 0.0,
-      "short_notional": 99307.49,
-      "net_notional": -99307.49,
+      "short_notional": 98449.09,
+      "net_notional": -98449.09,
       "long_count": 0,
       "short_count": 2
     },
     "APEX": {
       "long_notional": 0.0,
-      "short_notional": 98763.42,
-      "net_notional": -98763.42,
+      "short_notional": 97601.78,
+      "net_notional": -97601.78,
       "long_count": 0,
       "short_count": 2
     },
+    "STX": {
+      "long_notional": 0.0,
+      "short_notional": 88955.91,
+      "net_notional": -88955.91,
+      "long_count": 0,
+      "short_count": 3
+    },
     "FIL": {
       "long_notional": 0.0,
-      "short_notional": 89646.21,
-      "net_notional": -89646.21,
+      "short_notional": 88417.04,
+      "net_notional": -88417.04,
       "long_count": 0,
       "short_count": 2
     },
     "RENDER": {
       "long_notional": 0.0,
-      "short_notional": 88230.73,
-      "net_notional": -88230.73,
-      "long_count": 0,
-      "short_count": 1
-    },
-    "STX": {
-      "long_notional": 0.0,
-      "short_notional": 87003.34,
-      "net_notional": -87003.34,
-      "long_count": 0,
-      "short_count": 3
-    },
-    "CFX": {
-      "long_notional": 0.0,
-      "short_notional": 80461.67,
-      "net_notional": -80461.67,
+      "short_notional": 87573.12,
+      "net_notional": -87573.12,
       "long_count": 0,
       "short_count": 1
     },
     "WLFI": {
-      "long_notional": 78018.52,
-      "short_notional": 48.26,
-      "net_notional": 77970.26,
+      "long_notional": 80024.94,
+      "short_notional": 48.82,
+      "net_notional": 79976.12,
       "long_count": 1,
       "short_count": 2
     },
+    "CFX": {
+      "long_notional": 0.0,
+      "short_notional": 79468.0,
+      "net_notional": -79468.0,
+      "long_count": 0,
+      "short_count": 1
+    },
     "MOODENG": {
-      "long_notional": 10.57,
-      "short_notional": 77502.79,
-      "net_notional": -77492.22,
+      "long_notional": 10.5,
+      "short_notional": 76969.38,
+      "net_notional": -76958.88,
       "long_count": 1,
       "short_count": 1
     },
     "PYTH": {
-      "long_notional": 0.0,
-      "short_notional": 72250.41,
-      "net_notional": -72250.41,
-      "long_count": 0,
-      "short_count": 2
+      "long_notional": 22.76,
+      "short_notional": 71409.17,
+      "net_notional": -71386.41,
+      "long_count": 1,
+      "short_count": 1
     },
     "OP": {
       "long_notional": 0.0,
-      "short_notional": 70903.82,
-      "net_notional": -70903.82,
+      "short_notional": 69290.78,
+      "net_notional": -69290.78,
       "long_count": 0,
       "short_count": 2
     },
     "ATOM": {
       "long_notional": 0.0,
-      "short_notional": 68371.59,
-      "net_notional": -68371.59,
+      "short_notional": 66619.81,
+      "net_notional": -66619.81,
       "long_count": 0,
       "short_count": 3
     },
-    "ENS": {
+    "COMP": {
       "long_notional": 0.0,
-      "short_notional": 66481.98,
-      "net_notional": -66481.98,
+      "short_notional": 66236.5,
+      "net_notional": -66236.5,
       "long_count": 0,
       "short_count": 1
     },
-    "COMP": {
+    "ENS": {
       "long_notional": 0.0,
-      "short_notional": 65992.19,
-      "net_notional": -65992.19,
+      "short_notional": 65896.19,
+      "net_notional": -65896.19,
       "long_count": 0,
       "short_count": 1
     },
     "IMX": {
       "long_notional": 0.0,
-      "short_notional": 63939.59,
-      "net_notional": -63939.59,
+      "short_notional": 63193.48,
+      "net_notional": -63193.48,
       "long_count": 0,
       "short_count": 1
     },
     "2Z": {
-      "long_notional": 2915.24,
-      "short_notional": 48972.42,
-      "net_notional": -46057.19,
-      "long_count": 1,
-      "short_count": 2
+      "long_notional": 0.0,
+      "short_notional": 53737.01,
+      "net_notional": -53737.01,
+      "long_count": 0,
+      "short_count": 3
     },
     "ALT": {
-      "long_notional": 51435.9,
+      "long_notional": 53117.68,
       "short_notional": 0.0,
-      "net_notional": 51435.9,
+      "net_notional": 53117.68,
       "long_count": 1,
       "short_count": 0
     },
     "JTO": {
       "long_notional": 0.0,
-      "short_notional": 41313.52,
-      "net_notional": -41313.52,
+      "short_notional": 40705.25,
+      "net_notional": -40705.25,
       "long_count": 0,
       "short_count": 1
     },
     "TRUMP": {
-      "long_notional": 175.36,
-      "short_notional": 34410.95,
-      "net_notional": -34235.59,
+      "long_notional": 172.17,
+      "short_notional": 39565.12,
+      "net_notional": -39392.95,
       "long_count": 2,
       "short_count": 2
     },
     "PENDLE": {
       "long_notional": 0.0,
-      "short_notional": 34027.96,
-      "net_notional": -34027.96,
+      "short_notional": 33792.74,
+      "net_notional": -33792.74,
       "long_count": 0,
       "short_count": 1
     },
     "CHIP": {
-      "long_notional": 6.59,
-      "short_notional": 30545.43,
-      "net_notional": -30538.84,
+      "long_notional": 6.33,
+      "short_notional": 29301.21,
+      "net_notional": -29294.89,
       "long_count": 1,
       "short_count": 3
     },
-    "ZK": {
-      "long_notional": 0.0,
-      "short_notional": 25175.94,
-      "net_notional": -25175.94,
-      "long_count": 0,
-      "short_count": 1
-    },
     "STBL": {
-      "long_notional": 23798.35,
-      "short_notional": 39.57,
-      "net_notional": 23758.78,
+      "long_notional": 26852.26,
+      "short_notional": 39.53,
+      "net_notional": 26812.72,
       "long_count": 1,
       "short_count": 1
     },
-    "USELESS": {
-      "long_notional": 19743.45,
-      "short_notional": 4071.68,
-      "net_notional": 15671.77,
-      "long_count": 2,
+    "ZK": {
+      "long_notional": 0.0,
+      "short_notional": 24622.56,
+      "net_notional": -24622.56,
+      "long_count": 0,
       "short_count": 1
     },
     "MEGA": {
-      "long_notional": 8.62,
-      "short_notional": 19342.01,
-      "net_notional": -19333.4,
+      "long_notional": 28.45,
+      "short_notional": 19295.42,
+      "net_notional": -19266.97,
       "long_count": 1,
       "short_count": 1
     },
     "XAI": {
-      "long_notional": 18876.31,
+      "long_notional": 18743.22,
       "short_notional": 0.0,
-      "net_notional": 18876.31,
+      "net_notional": 18743.22,
       "long_count": 1,
       "short_count": 0
     },
     "0G": {
-      "long_notional": 0.73,
-      "short_notional": 18747.45,
-      "net_notional": -18746.72,
+      "long_notional": 0.72,
+      "short_notional": 18591.25,
+      "net_notional": -18590.53,
+      "long_count": 1,
+      "short_count": 1
+    },
+    "kFLOKI": {
+      "long_notional": 3517.95,
+      "short_notional": 12676.73,
+      "net_notional": -9158.77,
       "long_count": 1,
       "short_count": 1
     },
     "AR": {
       "long_notional": 0.0,
-      "short_notional": 16678.44,
-      "net_notional": -16678.44,
+      "short_notional": 16177.89,
+      "net_notional": -16177.89,
       "long_count": 0,
       "short_count": 1
-    },
-    "kFLOKI": {
-      "long_notional": 1007.1,
-      "short_notional": 12807.53,
-      "net_notional": -11800.44,
-      "long_count": 1,
-      "short_count": 1
-    },
-    "SYRUP": {
-      "long_notional": 0.0,
-      "short_notional": 13158.07,
-      "net_notional": -13158.07,
-      "long_count": 0,
-      "short_count": 2
     },
     "AIXBT": {
       "long_notional": 0.0,
-      "short_notional": 12673.81,
-      "net_notional": -12673.81,
+      "short_notional": 13410.31,
+      "net_notional": -13410.31,
+      "long_count": 0,
+      "short_count": 2
+    },
+    "SYRUP": {
+      "long_notional": 0.0,
+      "short_notional": 13009.49,
+      "net_notional": -13009.49,
       "long_count": 0,
       "short_count": 2
     },
     "INIT": {
       "long_notional": 0.0,
-      "short_notional": 12420.4,
-      "net_notional": -12420.4,
+      "short_notional": 12774.0,
+      "net_notional": -12774.0,
       "long_count": 0,
       "short_count": 1
     },
     "ICP": {
       "long_notional": 0.0,
-      "short_notional": 12079.11,
-      "net_notional": -12079.11,
+      "short_notional": 11917.19,
+      "net_notional": -11917.19,
       "long_count": 0,
       "short_count": 1
     },
     "ZETA": {
-      "long_notional": 11035.31,
+      "long_notional": 10900.46,
       "short_notional": 0.0,
-      "net_notional": 11035.31,
+      "net_notional": 10900.46,
       "long_count": 1,
       "short_count": 0
     },
     "RUNE": {
       "long_notional": 0.0,
-      "short_notional": 9569.98,
-      "net_notional": -9569.98,
+      "short_notional": 9570.12,
+      "net_notional": -9570.12,
       "long_count": 0,
       "short_count": 1
     },
     "S": {
-      "long_notional": 9216.54,
+      "long_notional": 9048.01,
       "short_notional": 0.0,
-      "net_notional": 9216.54,
+      "net_notional": 9048.01,
       "long_count": 1,
       "short_count": 0
     },
     "KAITO": {
-      "long_notional": 7.1,
-      "short_notional": 9096.42,
-      "net_notional": -9089.32,
+      "long_notional": 7.03,
+      "short_notional": 9006.46,
+      "net_notional": -8999.43,
       "long_count": 1,
       "short_count": 1
     },
     "BIO": {
       "long_notional": 0.0,
-      "short_notional": 6800.78,
-      "net_notional": -6800.78,
+      "short_notional": 6731.43,
+      "net_notional": -6731.43,
       "long_count": 0,
       "short_count": 1
     },
@@ -742,358 +735,365 @@
     },
     "GALA": {
       "long_notional": 0.0,
-      "short_notional": 6487.26,
-      "net_notional": -6487.26,
+      "short_notional": 6434.65,
+      "net_notional": -6434.65,
       "long_count": 0,
       "short_count": 1
     },
     "CAKE": {
       "long_notional": 0.0,
-      "short_notional": 6409.79,
-      "net_notional": -6409.79,
+      "short_notional": 6406.45,
+      "net_notional": -6406.45,
       "long_count": 0,
+      "short_count": 1
+    },
+    "USELESS": {
+      "long_notional": 2106.64,
+      "short_notional": 4043.88,
+      "net_notional": -1937.24,
+      "long_count": 2,
       "short_count": 1
     },
     "NIL": {
       "long_notional": 0.0,
-      "short_notional": 6170.89,
-      "net_notional": -6170.89,
+      "short_notional": 6140.43,
+      "net_notional": -6140.43,
       "long_count": 0,
       "short_count": 1
     },
     "APE": {
       "long_notional": 0.0,
-      "short_notional": 5290.13,
-      "net_notional": -5290.13,
+      "short_notional": 5240.04,
+      "net_notional": -5240.04,
       "long_count": 0,
       "short_count": 2
     },
     "GOAT": {
-      "long_notional": 3.56,
-      "short_notional": 4989.44,
-      "net_notional": -4985.88,
+      "long_notional": 3.52,
+      "short_notional": 4933.07,
+      "net_notional": -4929.55,
       "long_count": 1,
       "short_count": 2
     },
     "SAND": {
       "long_notional": 0.0,
-      "short_notional": 4992.49,
-      "net_notional": -4992.49,
+      "short_notional": 4920.94,
+      "net_notional": -4920.94,
       "long_count": 0,
       "short_count": 1
     },
     "W": {
       "long_notional": 0.0,
-      "short_notional": 4511.85,
-      "net_notional": -4511.85,
-      "long_count": 0,
-      "short_count": 1
-    },
-    "MERL": {
-      "long_notional": 0.0,
-      "short_notional": 3300.48,
-      "net_notional": -3300.48,
+      "short_notional": 4363.28,
+      "net_notional": -4363.28,
       "long_count": 0,
       "short_count": 1
     },
     "DYDX": {
       "long_notional": 0.0,
-      "short_notional": 3252.16,
-      "net_notional": -3252.16,
+      "short_notional": 3217.86,
+      "net_notional": -3217.86,
+      "long_count": 0,
+      "short_count": 1
+    },
+    "MERL": {
+      "long_notional": 0.0,
+      "short_notional": 3215.95,
+      "net_notional": -3215.95,
       "long_count": 0,
       "short_count": 1
     },
     "REZ": {
       "long_notional": 0.0,
-      "short_notional": 2723.58,
-      "net_notional": -2723.58,
+      "short_notional": 2698.95,
+      "net_notional": -2698.95,
       "long_count": 0,
       "short_count": 1
     },
     "MNT": {
       "long_notional": 0.0,
-      "short_notional": 1888.9,
-      "net_notional": -1888.9,
+      "short_notional": 1875.96,
+      "net_notional": -1875.96,
       "long_count": 0,
       "short_count": 1
     },
     "BOME": {
       "long_notional": 0.0,
-      "short_notional": 1849.03,
-      "net_notional": -1849.03,
+      "short_notional": 1828.94,
+      "net_notional": -1828.94,
       "long_count": 0,
       "short_count": 2
     },
     "PROVE": {
       "long_notional": 0.0,
-      "short_notional": 1490.38,
-      "net_notional": -1490.38,
+      "short_notional": 1477.47,
+      "net_notional": -1477.47,
       "long_count": 0,
       "short_count": 1
     },
     "LINEA": {
       "long_notional": 0.0,
-      "short_notional": 1351.95,
-      "net_notional": -1351.95,
+      "short_notional": 1333.7,
+      "net_notional": -1333.7,
       "long_count": 0,
       "short_count": 2
     },
     "HMSTR": {
       "long_notional": 0.0,
-      "short_notional": 1011.43,
-      "net_notional": -1011.43,
+      "short_notional": 1004.74,
+      "net_notional": -1004.74,
       "long_count": 0,
       "short_count": 1
     },
     "SKY": {
       "long_notional": 0.0,
-      "short_notional": 933.89,
-      "net_notional": -933.89,
+      "short_notional": 927.75,
+      "net_notional": -927.75,
       "long_count": 0,
       "short_count": 1
     },
     "AZTEC": {
       "long_notional": 0.0,
-      "short_notional": 890.24,
-      "net_notional": -890.24,
+      "short_notional": 880.97,
+      "net_notional": -880.97,
       "long_count": 0,
       "short_count": 1
     },
     "KAS": {
       "long_notional": 0.0,
-      "short_notional": 861.87,
-      "net_notional": -861.87,
+      "short_notional": 860.66,
+      "net_notional": -860.66,
       "long_count": 0,
       "short_count": 1
     },
     "DASH": {
       "long_notional": 0.0,
-      "short_notional": 846.11,
-      "net_notional": -846.11,
+      "short_notional": 836.39,
+      "net_notional": -836.39,
       "long_count": 0,
       "short_count": 1
     },
     "GMX": {
       "long_notional": 0.0,
-      "short_notional": 813.65,
-      "net_notional": -813.65,
+      "short_notional": 813.75,
+      "net_notional": -813.75,
       "long_count": 0,
       "short_count": 1
     },
     "AXS": {
       "long_notional": 0.0,
-      "short_notional": 725.93,
-      "net_notional": -725.93,
+      "short_notional": 720.89,
+      "net_notional": -720.89,
       "long_count": 0,
       "short_count": 1
     },
     "SUPER": {
       "long_notional": 0.0,
-      "short_notional": 604.46,
-      "net_notional": -604.46,
+      "short_notional": 594.22,
+      "net_notional": -594.22,
       "long_count": 0,
       "short_count": 1
     },
-    "ANIME": {
-      "long_notional": 592.82,
-      "short_notional": 0.0,
-      "net_notional": 592.82,
-      "long_count": 1,
-      "short_count": 0
-    },
     "ZORA": {
-      "long_notional": 0.95,
-      "short_notional": 493.59,
-      "net_notional": -492.64,
+      "long_notional": 0.94,
+      "short_notional": 487.58,
+      "net_notional": -486.65,
       "long_count": 1,
       "short_count": 1
     },
     "RSR": {
       "long_notional": 0.0,
-      "short_notional": 452.25,
-      "net_notional": -452.25,
+      "short_notional": 447.78,
+      "net_notional": -447.78,
       "long_count": 0,
       "short_count": 1
     },
     "BERA": {
-      "long_notional": 388.61,
+      "long_notional": 376.53,
       "short_notional": 0.0,
-      "net_notional": 388.61,
+      "net_notional": 376.53,
       "long_count": 2,
       "short_count": 0
     },
     "SKR": {
-      "long_notional": 316.49,
+      "long_notional": 312.84,
       "short_notional": 0.0,
-      "net_notional": 316.49,
+      "net_notional": 312.84,
       "long_count": 1,
       "short_count": 0
     },
     "MOVE": {
-      "long_notional": 188.87,
-      "short_notional": 34.46,
-      "net_notional": 154.41,
+      "long_notional": 185.74,
+      "short_notional": 33.89,
+      "net_notional": 151.85,
       "long_count": 1,
       "short_count": 1
     },
     "SOPH": {
-      "long_notional": 0.19,
-      "short_notional": 218.97,
-      "net_notional": -218.79,
+      "long_notional": 0.18,
+      "short_notional": 211.46,
+      "net_notional": -211.28,
       "long_count": 1,
       "short_count": 1
     },
     "TRB": {
-      "long_notional": 109.59,
+      "long_notional": 108.66,
       "short_notional": 0.0,
-      "net_notional": 109.59,
+      "net_notional": 108.66,
       "long_count": 1,
       "short_count": 0
     },
     "LAYER": {
       "long_notional": 0.41,
-      "short_notional": 75.45,
-      "net_notional": -75.04,
+      "short_notional": 74.91,
+      "net_notional": -74.51,
       "long_count": 1,
       "short_count": 2
     },
     "HEMI": {
-      "long_notional": 65.82,
+      "long_notional": 65.66,
       "short_notional": 0.0,
-      "net_notional": 65.82,
+      "net_notional": 65.66,
       "long_count": 1,
       "short_count": 0
     },
     "BANANA": {
       "long_notional": 0.0,
-      "short_notional": 61.51,
-      "net_notional": -61.51,
+      "short_notional": 61.21,
+      "net_notional": -61.21,
+      "long_count": 0,
+      "short_count": 1
+    },
+    "GRIFFAIN": {
+      "long_notional": 0.0,
+      "short_notional": 53.92,
+      "net_notional": -53.92,
       "long_count": 0,
       "short_count": 1
     },
     "BLUR": {
-      "long_notional": 54.98,
+      "long_notional": 53.69,
       "short_notional": 0.0,
-      "net_notional": 54.98,
+      "net_notional": 53.69,
       "long_count": 1,
       "short_count": 0
     },
-    "GRIFFAIN": {
-      "long_notional": 0.0,
-      "short_notional": 53.47,
-      "net_notional": -53.47,
-      "long_count": 0,
-      "short_count": 1
-    },
     "PNUT": {
       "long_notional": 0.0,
-      "short_notional": 53.2,
-      "net_notional": -53.2,
+      "short_notional": 52.74,
+      "net_notional": -52.74,
       "long_count": 0,
       "short_count": 2
     },
     "IO": {
-      "long_notional": 37.17,
+      "long_notional": 36.8,
       "short_notional": 0.0,
-      "net_notional": 37.17,
+      "net_notional": 36.8,
       "long_count": 1,
       "short_count": 0
     },
     "PURR": {
-      "long_notional": 12.75,
-      "short_notional": 7.37,
-      "net_notional": 5.37,
+      "long_notional": 12.56,
+      "short_notional": 7.27,
+      "net_notional": 5.29,
       "long_count": 1,
       "short_count": 1
     },
     "ETC": {
       "long_notional": 0.0,
-      "short_notional": 17.09,
-      "net_notional": -17.09,
+      "short_notional": 16.99,
+      "net_notional": -16.99,
       "long_count": 0,
       "short_count": 1
     },
     "MINA": {
       "long_notional": 0.0,
-      "short_notional": 13.89,
-      "net_notional": -13.89,
+      "short_notional": 13.63,
+      "net_notional": -13.63,
       "long_count": 0,
       "short_count": 1
     },
     "BABY": {
       "long_notional": 0.0,
-      "short_notional": 11.75,
-      "net_notional": -11.75,
+      "short_notional": 11.47,
+      "net_notional": -11.47,
       "long_count": 0,
       "short_count": 1
     },
     "PEOPLE": {
       "long_notional": 0.0,
-      "short_notional": 9.0,
-      "net_notional": -9.0,
+      "short_notional": 8.88,
+      "net_notional": -8.88,
       "long_count": 0,
       "short_count": 1
     },
     "BSV": {
-      "long_notional": 6.38,
+      "long_notional": 6.36,
       "short_notional": 0.0,
-      "net_notional": 6.38,
+      "net_notional": 6.36,
       "long_count": 1,
       "short_count": 0
     },
+    "ANIME": {
+      "long_notional": 0.0,
+      "short_notional": 5.6,
+      "net_notional": -5.6,
+      "long_count": 0,
+      "short_count": 1
+    },
     "RESOLV": {
-      "long_notional": 4.98,
+      "long_notional": 4.95,
       "short_notional": 0.0,
-      "net_notional": 4.98,
+      "net_notional": 4.95,
       "long_count": 1,
       "short_count": 0
     },
     "NXPC": {
-      "long_notional": 4.94,
+      "long_notional": 4.9,
       "short_notional": 0.0,
-      "net_notional": 4.94,
+      "net_notional": 4.9,
       "long_count": 1,
       "short_count": 0
     },
     "ACE": {
       "long_notional": 0.0,
-      "short_notional": 3.83,
-      "net_notional": -3.83,
+      "short_notional": 3.78,
+      "net_notional": -3.78,
       "long_count": 0,
       "short_count": 1
     },
     "ME": {
-      "long_notional": 2.06,
+      "long_notional": 2.04,
       "short_notional": 0.0,
-      "net_notional": 2.06,
+      "net_notional": 2.04,
       "long_count": 2,
       "short_count": 0
     },
     "HYPER": {
-      "long_notional": 1.91,
+      "long_notional": 1.89,
       "short_notional": 0.0,
-      "net_notional": 1.91,
+      "net_notional": 1.89,
       "long_count": 1,
       "short_count": 0
     },
     "BRETT": {
-      "long_notional": 1.84,
+      "long_notional": 1.83,
       "short_notional": 0.0,
-      "net_notional": 1.84,
+      "net_notional": 1.83,
       "long_count": 1,
       "short_count": 0
     },
     "ORDI": {
-      "long_notional": 1.74,
+      "long_notional": 1.73,
       "short_notional": 0.0,
-      "net_notional": 1.74,
+      "net_notional": 1.73,
       "long_count": 1,
       "short_count": 0
     },
     "USUAL": {
       "long_notional": 0.19,
-      "short_notional": 0.79,
-      "net_notional": -0.6,
+      "short_notional": 0.78,
+      "net_notional": -0.59,
       "long_count": 1,
       "short_count": 1
     },
@@ -1130,398 +1130,398 @@
     {
       "address": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
       "display_name": null,
-      "account_value": 155696907.802747,
+      "account_value": 154868893.719344,
       "positions": [
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 265128511.25,
+          "notional": 263547079.88,
           "entry_px": 2322.65,
-          "unrealized_pnl": -18113419.200077,
+          "unrealized_pnl": -16531987.830137,
           "leverage": 5
         },
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 220500156.67,
+          "notional": 219905338.45,
           "entry_px": 76265.2,
-          "unrealized_pnl": -21535492.207239,
+          "unrealized_pnl": -20940673.989999,
           "leverage": 5
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 78105600.14,
+          "notional": 77318551.01,
           "entry_px": 94.3199,
-          "unrealized_pnl": -10000622.999108,
+          "unrealized_pnl": -9213573.871308,
           "leverage": 7
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 56461779.51,
+          "notional": 55649948.88,
           "entry_px": 1478.3647,
-          "unrealized_pnl": 5086005.652541,
+          "unrealized_pnl": 5897836.282541,
           "leverage": 3
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 45419226.77,
+          "notional": 44898449.39,
           "entry_px": 70.2055,
-          "unrealized_pnl": -6441139.322154,
+          "unrealized_pnl": -5920361.947274,
           "leverage": 5
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 15546996.12,
+          "notional": 15304126.77,
           "entry_px": 1.489222,
-          "unrealized_pnl": 1120581.736364,
+          "unrealized_pnl": 1363451.087564,
           "leverage": 5
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 13975113.59,
+          "notional": 14136034.1,
           "entry_px": 0.004608,
-          "unrealized_pnl": -1188667.144838,
+          "unrealized_pnl": -1349587.650736,
           "leverage": 5
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 6237442.16,
+          "notional": 6117827.04,
           "entry_px": 0.238196,
-          "unrealized_pnl": 578805.373401,
+          "unrealized_pnl": 698420.495841,
           "leverage": 3
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 5988512.37,
+          "notional": 5884654.17,
           "entry_px": 0.106548,
-          "unrealized_pnl": 1632679.270009,
+          "unrealized_pnl": 1736537.468629,
           "leverage": 3
         },
         {
           "coin": "SUI",
           "side": "short",
-          "notional": 5876030.6,
+          "notional": 5814883.58,
           "entry_px": 1.14152,
-          "unrealized_pnl": 557242.692609,
+          "unrealized_pnl": 618389.704514,
           "leverage": 3
         },
         {
           "coin": "DOGE",
           "side": "short",
-          "notional": 5870848.53,
+          "notional": 5803685.58,
           "entry_px": 0.094616,
-          "unrealized_pnl": 825369.607036,
+          "unrealized_pnl": 892532.555798,
           "leverage": 3
         },
         {
           "coin": "WLD",
           "side": "short",
-          "notional": 5137220.79,
+          "notional": 5230706.68,
           "entry_px": 0.51986,
-          "unrealized_pnl": -455101.962474,
+          "unrealized_pnl": -548587.852638,
           "leverage": 2
         },
         {
           "coin": "LINK",
           "side": "short",
-          "notional": 3970729.03,
+          "notional": 3918836.34,
           "entry_px": 13.60843,
-          "unrealized_pnl": 283356.719537,
+          "unrealized_pnl": 335249.415137,
           "leverage": 3
         },
         {
           "coin": "FARTCOIN",
           "side": "short",
-          "notional": 3270448.15,
+          "notional": 3250986.18,
           "entry_px": 0.20186,
-          "unrealized_pnl": 953870.822339,
+          "unrealized_pnl": 973332.793025,
           "leverage": 3
         },
         {
           "coin": "INJ",
           "side": "short",
-          "notional": 954136.42,
+          "notional": 965832.7,
           "entry_px": 5.6137,
-          "unrealized_pnl": -325816.14527,
+          "unrealized_pnl": -337512.42272,
           "leverage": 3
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 885160.18,
+          "notional": 883433.99,
           "entry_px": 780.108,
-          "unrealized_pnl": 37182.83289,
+          "unrealized_pnl": 38909.02885,
           "leverage": 3
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 487867.72,
+          "notional": 485894.07,
           "entry_px": 22.7981,
-          "unrealized_pnl": -78818.229759,
+          "unrealized_pnl": -76844.582259,
           "leverage": 3
         },
         {
           "coin": "LIT",
           "side": "short",
-          "notional": 144692.0,
+          "notional": 136560.19,
           "entry_px": 4.259674,
-          "unrealized_pnl": 12093.85202,
+          "unrealized_pnl": 14743.456265,
           "leverage": 3
         },
         {
           "coin": "NEAR",
           "side": "short",
-          "notional": 36365.26,
+          "notional": 36127.54,
           "entry_px": 5.25632,
-          "unrealized_pnl": -354.69157,
+          "unrealized_pnl": -116.96534,
           "leverage": 3
         },
         {
           "coin": "ONDO",
           "side": "short",
-          "notional": 821.73,
+          "notional": 811.87,
           "entry_px": 0.514721,
-          "unrealized_pnl": 84.182873,
+          "unrealized_pnl": 94.038873,
           "leverage": 3
         }
       ],
-      "total_notional": 733997658.99
+      "total_notional": 729289768.41
     },
     {
       "address": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
       "display_name": null,
-      "account_value": 147373982.231935,
+      "account_value": 143882483.938171,
       "positions": [
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 212685271.81,
+          "notional": 212111534.92,
           "entry_px": 78113.9,
-          "unrealized_pnl": -16120208.925862,
+          "unrealized_pnl": -15546472.035502,
           "leverage": 5
         },
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 165257963.92,
+          "notional": 164272237.69,
           "entry_px": 2375.31,
-          "unrealized_pnl": -7799393.823136,
+          "unrealized_pnl": -6813667.591583,
           "leverage": 5
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 71492083.0,
+          "notional": 70464140.5,
           "entry_px": 1337.2179,
-          "unrealized_pnl": -1000638.08505,
+          "unrealized_pnl": 27304.41495,
           "leverage": 3
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 55063189.76,
+          "notional": 54372200.18,
           "entry_px": 69.8199,
-          "unrealized_pnl": -8068328.691353,
+          "unrealized_pnl": -7428825.728317,
           "leverage": 5
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 28279501.83,
+          "notional": 27994536.9,
           "entry_px": 91.4175,
-          "unrealized_pnl": -4379690.685235,
+          "unrealized_pnl": -4094725.750435,
           "leverage": 5
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 14662575.6,
+          "notional": 14433522.33,
           "entry_px": 1.498995,
-          "unrealized_pnl": 1159994.049456,
+          "unrealized_pnl": 1389047.314456,
           "leverage": 5
         },
         {
           "coin": "NEAR",
           "side": "short",
-          "notional": 11597619.39,
+          "notional": 11521803.67,
           "entry_px": 5.26332,
-          "unrealized_pnl": -97831.959328,
+          "unrealized_pnl": -22016.245098,
           "leverage": 3
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 11149195.8,
+          "notional": 10935388.22,
           "entry_px": 0.243779,
-          "unrealized_pnl": 1320181.297698,
+          "unrealized_pnl": 1533988.878718,
           "leverage": 2
         },
         {
           "coin": "DOGE",
           "side": "short",
-          "notional": 8882675.25,
+          "notional": 8781056.78,
           "entry_px": 0.094571,
-          "unrealized_pnl": 1243957.365937,
+          "unrealized_pnl": 1345575.838958,
           "leverage": 3
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 6575872.5,
+          "notional": 6651592.29,
           "entry_px": 0.005114,
-          "unrealized_pnl": 101409.564293,
+          "unrealized_pnl": 25689.769809,
           "leverage": 5
         },
         {
           "coin": "WLD",
           "side": "short",
-          "notional": 6225952.85,
+          "notional": 6339251.22,
           "entry_px": 0.53853,
-          "unrealized_pnl": -347817.767948,
+          "unrealized_pnl": -461116.138496,
           "leverage": 2
         },
         {
           "coin": "SUI",
           "side": "short",
-          "notional": 4972358.96,
+          "notional": 4920615.71,
           "entry_px": 1.10507,
-          "unrealized_pnl": 297690.765313,
+          "unrealized_pnl": 349434.010608,
+          "leverage": 3
+        },
+        {
+          "coin": "LINK",
+          "side": "short",
+          "notional": 3948181.86,
+          "entry_px": 12.93275,
+          "unrealized_pnl": 124956.15502,
           "leverage": 3
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 4008629.03,
+          "notional": 3939107.75,
           "entry_px": 0.106115,
-          "unrealized_pnl": 1072146.169651,
+          "unrealized_pnl": 1141667.440327,
           "leverage": 5
-        },
-        {
-          "coin": "LINK",
-          "side": "short",
-          "notional": 4000463.15,
-          "entry_px": 12.93275,
-          "unrealized_pnl": 72674.87002,
-          "leverage": 3
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 3353091.88,
+          "notional": 3339527.1,
           "entry_px": 23.7488,
-          "unrealized_pnl": -424470.727449,
+          "unrealized_pnl": -410905.941049,
           "leverage": 3
         },
         {
           "coin": "FARTCOIN",
           "side": "short",
-          "notional": 3116889.7,
+          "notional": 3098341.54,
           "entry_px": 0.17721,
-          "unrealized_pnl": 417577.518629,
+          "unrealized_pnl": 436125.684893,
           "leverage": 3
         },
         {
           "coin": "TAO",
           "side": "short",
-          "notional": 2553479.7,
+          "notional": 2523414.75,
           "entry_px": 284.488,
-          "unrealized_pnl": 86373.96643,
+          "unrealized_pnl": 116438.92111,
           "leverage": 3
         },
         {
           "coin": "ASTER",
           "side": "short",
-          "notional": 2087085.07,
+          "notional": 2088540.19,
           "entry_px": 0.729077,
-          "unrealized_pnl": 34711.102386,
+          "unrealized_pnl": 33255.977886,
           "leverage": 3
         },
         {
           "coin": "LIT",
           "side": "short",
-          "notional": 1944483.24,
+          "notional": 1901696.79,
           "entry_px": 3.811861,
-          "unrealized_pnl": -58980.258622,
+          "unrealized_pnl": -16193.812122,
           "leverage": 3
         },
         {
           "coin": "ZRO",
           "side": "short",
-          "notional": 1554993.96,
+          "notional": 1498948.46,
           "entry_px": 2.26213,
-          "unrealized_pnl": 181755.881915,
+          "unrealized_pnl": 237801.383715,
           "leverage": 3
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 1280445.34,
+          "notional": 1264486.03,
           "entry_px": 7.44566,
-          "unrealized_pnl": -22343.11311,
+          "unrealized_pnl": -6383.80216,
           "leverage": 3
         },
         {
           "coin": "INJ",
           "side": "short",
-          "notional": 24755.73,
+          "notional": 25059.2,
           "entry_px": 7.61952,
-          "unrealized_pnl": -2628.61518,
+          "unrealized_pnl": -2932.08318,
           "leverage": 3
         },
         {
           "coin": "MON",
           "side": "short",
-          "notional": 6163.77,
+          "notional": 6061.97,
           "entry_px": 0.030277,
-          "unrealized_pnl": 2144.524014,
+          "unrealized_pnl": 2246.329753,
           "leverage": 3
         },
         {
           "coin": "ONDO",
           "side": "short",
-          "notional": 3310.72,
+          "notional": 3271.01,
           "entry_px": 0.518718,
-          "unrealized_pnl": 367.519104,
+          "unrealized_pnl": 407.228704,
           "leverage": 3
         },
         {
           "coin": "AVAX",
           "side": "short",
-          "notional": 1262.66,
+          "notional": 1243.26,
           "entry_px": 10.9836,
-          "unrealized_pnl": 147.521446,
+          "unrealized_pnl": 166.921175,
           "leverage": 10
         },
         {
           "coin": "AERO",
           "side": "short",
-          "notional": 12.66,
+          "notional": 12.19,
           "entry_px": 0.859073,
-          "unrealized_pnl": 0.2306,
+          "unrealized_pnl": 0.694865,
           "leverage": 3
         },
         {
           "coin": "GRAM",
           "side": "short",
-          "notional": 10.83,
+          "notional": 10.92,
           "entry_px": 1.5384,
-          "unrealized_pnl": 1.4736,
+          "unrealized_pnl": 1.392,
           "leverage": 3
         },
         {
           "coin": "PURR",
           "side": "short",
-          "notional": 7.37,
+          "notional": 7.27,
           "entry_px": 0.14967,
-          "unrealized_pnl": 3.1031,
+          "unrealized_pnl": 3.2109,
           "leverage": 3
         },
         {
@@ -1529,1567 +1529,1567 @@
           "side": "short",
           "notional": 0.01,
           "entry_px": 0.15831,
-          "unrealized_pnl": 0.000939,
+          "unrealized_pnl": 0.00108,
           "leverage": 5
         }
       ],
-      "total_notional": 620779345.49
+      "total_notional": 616435790.71
     },
     {
       "address": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
       "display_name": "BobbyBigSize",
-      "account_value": 44678332.204142,
+      "account_value": 45730051.490549,
       "positions": [
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 55449059.05,
-          "entry_px": 2511.11,
-          "unrealized_pnl": 403528.314082,
+          "notional": 57275460.69,
+          "entry_px": 2510.27,
+          "unrealized_pnl": 743639.065832,
           "leverage": 25
         },
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 38368896.13,
+          "notional": 29891801.0,
           "entry_px": 82223.6,
-          "unrealized_pnl": -1042457.451822,
+          "unrealized_pnl": -733483.321429,
           "leverage": 30
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 29308390.65,
-          "entry_px": 1228.4133,
-          "unrealized_pnl": -2761555.133271,
+          "notional": 28708599.97,
+          "entry_px": 1228.7657,
+          "unrealized_pnl": -2318128.66006,
           "leverage": 5
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 9850517.49,
+          "notional": 8452771.57,
           "entry_px": 81.1198,
-          "unrealized_pnl": -82743.525893,
-          "leverage": 10
-        },
-        {
-          "coin": "NEAR",
-          "side": "short",
-          "notional": 7224429.73,
-          "entry_px": 5.16331,
-          "unrealized_pnl": -197051.746949,
+          "unrealized_pnl": 26217.635987,
           "leverage": 10
         },
         {
           "coin": "XMR",
           "side": "short",
-          "notional": 7132304.07,
+          "notional": 7280835.72,
           "entry_px": 602.689,
-          "unrealized_pnl": -138669.08517,
+          "unrealized_pnl": -287200.73317,
           "leverage": 5
+        },
+        {
+          "coin": "NEAR",
+          "side": "short",
+          "notional": 7203260.32,
+          "entry_px": 5.16378,
+          "unrealized_pnl": -149726.852539,
+          "leverage": 10
         },
         {
           "coin": "LIT",
           "side": "short",
-          "notional": 6824802.37,
+          "notional": 4991682.55,
           "entry_px": 3.755438,
-          "unrealized_pnl": -304966.526501,
+          "unrealized_pnl": -115763.694497,
           "leverage": 5
         },
         {
           "coin": "WLD",
           "side": "short",
-          "notional": 4812332.87,
+          "notional": 4899906.53,
           "entry_px": 0.40368,
-          "unrealized_pnl": -1406552.854115,
+          "unrealized_pnl": -1494126.513221,
           "leverage": 10
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 4371802.33,
+          "notional": 4422142.72,
           "entry_px": 0.004609,
-          "unrealized_pnl": -370751.873543,
+          "unrealized_pnl": -421092.261709,
           "leverage": 10
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 3816058.04,
-          "entry_px": 107.3614,
-          "unrealized_pnl": -28525.785122,
+          "notional": 4254761.69,
+          "entry_px": 107.4223,
+          "unrealized_pnl": 13602.882578,
           "leverage": 20
         },
         {
           "coin": "kPEPE",
           "side": "short",
-          "notional": 2693511.1,
+          "notional": 2679671.61,
           "entry_px": 0.004213,
-          "unrealized_pnl": -263891.994733,
+          "unrealized_pnl": -250052.502901,
           "leverage": 10
         },
         {
           "coin": "ONDO",
           "side": "short",
-          "notional": 2213915.81,
+          "notional": 2186906.24,
           "entry_px": 0.537361,
-          "unrealized_pnl": 334164.070439,
+          "unrealized_pnl": 360643.269515,
+          "leverage": 10
+        },
+        {
+          "coin": "FARTCOIN",
+          "side": "short",
+          "notional": 1683238.49,
+          "entry_px": 0.16605,
+          "unrealized_pnl": 116026.454981,
           "leverage": 10
         },
         {
           "coin": "ZRO",
           "side": "short",
-          "notional": 1703245.14,
+          "notional": 1641856.33,
           "entry_px": 1.1688,
-          "unrealized_pnl": -720350.883449,
+          "unrealized_pnl": -658962.073649,
           "leverage": 5
-        },
-        {
-          "coin": "FARTCOIN",
-          "side": "short",
-          "notional": 1666870.09,
-          "entry_px": 0.1662,
-          "unrealized_pnl": 105822.328114,
-          "leverage": 10
         },
         {
           "coin": "GRAM",
           "side": "short",
-          "notional": 1119740.58,
+          "notional": 1128174.61,
           "entry_px": 1.426122,
-          "unrealized_pnl": 59470.365068,
+          "unrealized_pnl": 51036.342068,
           "leverage": 5
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 967890.34,
+          "notional": 949329.15,
           "entry_px": 0.15785,
-          "unrealized_pnl": -266957.071141,
+          "unrealized_pnl": -248395.885641,
           "leverage": 10
+        },
+        {
+          "coin": "XRP",
+          "side": "short",
+          "notional": 734939.21,
+          "entry_px": 1.388532,
+          "unrealized_pnl": 11358.326058,
+          "leverage": 20
         },
         {
           "coin": "DOGE",
           "side": "short",
-          "notional": 665252.92,
+          "notional": 657864.37,
           "entry_px": 0.084021,
-          "unrealized_pnl": 8564.050957,
+          "unrealized_pnl": 16176.429763,
           "leverage": 10
         },
         {
           "coin": "ASTER",
           "side": "short",
-          "notional": 640156.06,
+          "notional": 640602.38,
           "entry_px": 0.77843,
-          "unrealized_pnl": 54701.10399,
+          "unrealized_pnl": 54254.78449,
           "leverage": 5
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 616516.83,
+          "notional": 605824.64,
           "entry_px": 0.095349,
-          "unrealized_pnl": 85618.0614,
+          "unrealized_pnl": 96310.253988,
           "leverage": 5
-        },
-        {
-          "coin": "XRP",
-          "side": "short",
-          "notional": 592070.54,
-          "entry_px": 1.391733,
-          "unrealized_pnl": 1122.632,
-          "leverage": 20
         },
         {
           "coin": "LTC",
           "side": "short",
-          "notional": 553876.18,
+          "notional": 549164.2,
           "entry_px": 56.9012,
-          "unrealized_pnl": -45114.30531,
+          "unrealized_pnl": -40402.3298,
           "leverage": 10
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 493573.57,
+          "notional": 492611.03,
           "entry_px": 758.429,
-          "unrealized_pnl": 6440.878893,
+          "unrealized_pnl": 7403.421853,
           "leverage": 10
         },
         {
           "coin": "AVAX",
           "side": "short",
-          "notional": 419425.43,
+          "notional": 412981.33,
           "entry_px": 13.2086,
-          "unrealized_pnl": 143895.548115,
+          "unrealized_pnl": 150339.651849,
           "leverage": 10
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 307400.51,
+          "notional": 306156.93,
           "entry_px": 23.8125,
-          "unrealized_pnl": -38193.90253,
+          "unrealized_pnl": -36950.32723,
           "leverage": 3
         },
         {
           "coin": "MON",
           "side": "short",
-          "notional": 295967.11,
+          "notional": 291078.68,
           "entry_px": 0.02721,
-          "unrealized_pnl": 62564.599594,
+          "unrealized_pnl": 67453.024331,
           "leverage": 5
         },
         {
           "coin": "INJ",
           "side": "short",
-          "notional": 244412.53,
+          "notional": 247408.66,
           "entry_px": 6.18932,
-          "unrealized_pnl": -66957.75375,
+          "unrealized_pnl": -69953.8837,
           "leverage": 5
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 79113.28,
+          "notional": 78127.22,
           "entry_px": 4.63034,
-          "unrealized_pnl": -30772.50043,
+          "unrealized_pnl": -29786.44243,
           "leverage": 10
         },
         {
           "coin": "ADA",
           "side": "short",
-          "notional": 5975.88,
+          "notional": 5914.36,
           "entry_px": 0.549523,
-          "unrealized_pnl": 8410.101134,
+          "unrealized_pnl": 8471.621784,
           "leverage": 10
         },
         {
           "coin": "GOAT",
           "side": "short",
-          "notional": 4989.19,
+          "notional": 4932.83,
           "entry_px": 0.478596,
-          "unrealized_pnl": 151855.928612,
+          "unrealized_pnl": 151912.29628,
           "leverage": 3
         },
         {
           "coin": "PONS",
           "side": "long",
-          "notional": 4209.78,
+          "notional": 4161.73,
           "entry_px": 0.587417,
-          "unrealized_pnl": -4317.75834,
+          "unrealized_pnl": -4365.80961,
           "leverage": 3
         },
         {
           "coin": "PENGU",
           "side": "long",
-          "notional": 1067.36,
+          "notional": 1051.49,
           "entry_px": 0.028211,
-          "unrealized_pnl": -2572.340946,
+          "unrealized_pnl": -2588.210037,
           "leverage": 5
         },
         {
           "coin": "TAO",
           "side": "long",
-          "notional": 602.64,
+          "notional": 595.55,
           "entry_px": 310.142,
-          "unrealized_pnl": -76.56732,
+          "unrealized_pnl": -83.66292,
           "leverage": 5
         },
         {
           "coin": "LINEA",
           "side": "short",
-          "notional": 356.55,
+          "notional": 351.73,
           "entry_px": 0.027679,
-          "unrealized_pnl": 3149.345859,
+          "unrealized_pnl": 3154.158939,
           "leverage": 3
         },
         {
           "coin": "WIF",
           "side": "short",
-          "notional": 259.83,
+          "notional": 259.02,
           "entry_px": 0.784313,
-          "unrealized_pnl": 701.737636,
+          "unrealized_pnl": 702.5517,
           "leverage": 5
         },
         {
           "coin": "POPCAT",
           "side": "short",
-          "notional": 222.94,
+          "notional": 222.02,
           "entry_px": 0.215958,
-          "unrealized_pnl": 786.454523,
+          "unrealized_pnl": 787.370627,
           "leverage": 3
         }
       ],
-      "total_notional": 182449214.92
+      "total_notional": 172684646.57
     },
     {
       "address": "0x45d26f28196d226497130c4bac709d808fed4029",
       "display_name": null,
-      "account_value": 13487360.644621,
+      "account_value": 14619267.522709,
       "positions": [
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 36850720.0,
+          "notional": 36751312.0,
           "entry_px": 77001.5,
-          "unrealized_pnl": -3278023.817079,
+          "unrealized_pnl": -3178615.817079,
           "leverage": 20
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 35428975.56,
+          "notional": 35022746.52,
           "entry_px": 28.7925,
-          "unrealized_pnl": -22959500.871727,
+          "unrealized_pnl": -22553271.831727,
           "leverage": 10
         },
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 34776931.5,
+          "notional": 34569495.0,
           "entry_px": 2443.6,
-          "unrealized_pnl": -688649.035467,
+          "unrealized_pnl": -481212.535467,
           "leverage": 20
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 7088857.4,
+          "notional": 6986930.9,
           "entry_px": 833.4375,
-          "unrealized_pnl": -2732479.4269,
+          "unrealized_pnl": -2630552.9269,
           "leverage": 5
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 6436328.97,
+          "notional": 6510441.95,
           "entry_px": 0.004715,
-          "unrealized_pnl": -410717.496966,
+          "unrealized_pnl": -484830.476966,
           "leverage": 3
         },
         {
           "coin": "NEAR",
           "side": "short",
-          "notional": 4827186.14,
+          "notional": 4795629.96,
           "entry_px": 3.26165,
-          "unrealized_pnl": -1861036.24422,
+          "unrealized_pnl": -1829480.06422,
           "leverage": 10
         },
         {
           "coin": "DOGE",
           "side": "short",
-          "notional": 3768268.4,
+          "notional": 3725159.13,
           "entry_px": 0.095443,
-          "unrealized_pnl": 567360.816319,
+          "unrealized_pnl": 610470.090319,
           "leverage": 10
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 3407462.3,
+          "notional": 3354232.2,
           "entry_px": 1.483196,
-          "unrealized_pnl": 230818.1241,
+          "unrealized_pnl": 284048.2241,
           "leverage": 20
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 3160727.4,
+          "notional": 3128877.6,
           "entry_px": 93.2845,
-          "unrealized_pnl": -434951.42051,
+          "unrealized_pnl": -403101.62051,
           "leverage": 20
         },
         {
           "coin": "LINK",
           "side": "short",
-          "notional": 2483241.0,
+          "notional": 2450788.0,
           "entry_px": 11.54211,
-          "unrealized_pnl": -226757.5703,
+          "unrealized_pnl": -194304.5703,
           "leverage": 10
         },
         {
           "coin": "AAVE",
           "side": "short",
-          "notional": 2475743.08,
+          "notional": 2445715.97,
           "entry_px": 118.4015,
-          "unrealized_pnl": -614351.8986,
+          "unrealized_pnl": -584324.7886,
           "leverage": 10
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 1525790.0,
+          "notional": 1496530.0,
           "entry_px": 0.520929,
-          "unrealized_pnl": 2120713.141432,
+          "unrealized_pnl": 2149973.141432,
           "leverage": 10
-        },
-        {
-          "coin": "ZRO",
-          "side": "short",
-          "notional": 1157313.56,
-          "entry_px": 1.30729,
-          "unrealized_pnl": -410327.752102,
-          "leverage": 5
         },
         {
           "coin": "FARTCOIN",
           "side": "short",
-          "notional": 1147360.88,
+          "notional": 1140533.09,
           "entry_px": 0.63634,
-          "unrealized_pnl": 3524522.232195,
+          "unrealized_pnl": 3531350.013195,
           "leverage": 7
+        },
+        {
+          "coin": "ZRO",
+          "side": "short",
+          "notional": 1115601.36,
+          "entry_px": 1.30729,
+          "unrealized_pnl": -368615.552102,
+          "leverage": 5
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 992704.9,
+          "notional": 980331.95,
           "entry_px": 8.05042,
-          "unrealized_pnl": 61900.98507,
+          "unrealized_pnl": 74273.93507,
           "leverage": 10
         },
         {
           "coin": "ONDO",
           "side": "short",
-          "notional": 842736.45,
+          "notional": 832628.45,
           "entry_px": 0.44836,
-          "unrealized_pnl": -33446.071403,
+          "unrealized_pnl": -23338.071403,
           "leverage": 10
         },
         {
           "coin": "CASHCAT",
           "side": "short",
-          "notional": 648427.86,
+          "notional": 632231.16,
           "entry_px": 0.116438,
-          "unrealized_pnl": 3689.971286,
+          "unrealized_pnl": 19886.66645,
           "leverage": 3
         },
         {
           "coin": "MON",
           "side": "short",
-          "notional": 628936.0,
+          "notional": 618548.0,
           "entry_px": 0.030434,
-          "unrealized_pnl": 223237.019249,
+          "unrealized_pnl": 233625.019249,
           "leverage": 5
         },
         {
           "coin": "kPEPE",
           "side": "short",
-          "notional": 599756.4,
+          "notional": 596674.8,
           "entry_px": 0.0038,
-          "unrealized_pnl": -111712.258107,
+          "unrealized_pnl": -108630.658107,
           "leverage": 10
         },
         {
           "coin": "LIT",
           "side": "short",
-          "notional": 589665.0,
+          "notional": 576690.0,
           "entry_px": 1.888811,
-          "unrealized_pnl": -306343.292488,
+          "unrealized_pnl": -293368.292488,
           "leverage": 3
         },
         {
           "coin": "TAO",
           "side": "short",
-          "notional": 520090.2,
+          "notional": 513966.6,
           "entry_px": 321.714,
-          "unrealized_pnl": 87950.99139,
+          "unrealized_pnl": 94074.59139,
           "leverage": 5
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 429617.8,
+          "notional": 427879.8,
           "entry_px": 14.7728,
-          "unrealized_pnl": -196206.872571,
+          "unrealized_pnl": -194468.872571,
           "leverage": 3
         },
         {
           "coin": "ADA",
           "side": "short",
-          "notional": 227128.65,
+          "notional": 224790.4,
           "entry_px": 0.21937,
-          "unrealized_pnl": -8854.918842,
+          "unrealized_pnl": -6516.668842,
           "leverage": 10
         },
         {
           "coin": "GRAM",
           "side": "short",
-          "notional": 186879.6,
+          "notional": 188287.2,
           "entry_px": 1.485406,
-          "unrealized_pnl": 18106.5105,
+          "unrealized_pnl": 16698.9105,
           "leverage": 5
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 175818.3,
+          "notional": 172769.1,
           "entry_px": 0.104139,
-          "unrealized_pnl": 42873.989306,
+          "unrealized_pnl": 45923.189306,
           "leverage": 5
         },
         {
           "coin": "CRV",
           "side": "short",
-          "notional": 104676.4,
+          "notional": 108216.78,
           "entry_px": 0.80767,
-          "unrealized_pnl": 111294.777812,
+          "unrealized_pnl": 107754.401812,
           "leverage": 10
         },
         {
           "coin": "kSHIB",
           "side": "short",
-          "notional": 99304.45,
+          "notional": 98446.07,
           "entry_px": 0.014903,
-          "unrealized_pnl": 184984.94509,
-          "leverage": 10
-        },
-        {
-          "coin": "ARB",
-          "side": "short",
-          "notional": 97314.98,
-          "entry_px": 0.96678,
-          "unrealized_pnl": 385108.426214,
-          "leverage": 10
-        },
-        {
-          "coin": "AVAX",
-          "side": "short",
-          "notional": 97067.5,
-          "entry_px": 49.454,
-          "unrealized_pnl": 391043.89019,
+          "unrealized_pnl": 185843.32009,
           "leverage": 10
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 95828.48,
+          "notional": 95641.6,
           "entry_px": 697.335,
-          "unrealized_pnl": -6569.56563,
+          "unrealized_pnl": -6382.68563,
+          "leverage": 10
+        },
+        {
+          "coin": "AVAX",
+          "side": "short",
+          "notional": 95576.15,
+          "entry_px": 49.454,
+          "unrealized_pnl": 392535.24719,
+          "leverage": 10
+        },
+        {
+          "coin": "ARB",
+          "side": "short",
+          "notional": 94241.14,
+          "entry_px": 0.96678,
+          "unrealized_pnl": 388182.266214,
           "leverage": 10
         },
         {
           "coin": "ETHFI",
           "side": "short",
-          "notional": 84396.78,
+          "notional": 83124.99,
           "entry_px": 0.60365,
-          "unrealized_pnl": -13768.772828,
+          "unrealized_pnl": -12496.982828,
           "leverage": 5
         },
         {
           "coin": "MOODENG",
           "side": "short",
-          "notional": 77502.79,
+          "notional": 76969.38,
           "entry_px": 0.471415,
-          "unrealized_pnl": 769160.145658,
+          "unrealized_pnl": 769693.557658,
           "leverage": 3
         },
         {
           "coin": "ASTER",
           "side": "short",
-          "notional": 71715.0,
+          "notional": 71765.0,
           "entry_px": 0.6912,
-          "unrealized_pnl": -2594.93157,
+          "unrealized_pnl": -2644.93157,
           "leverage": 3
         },
         {
           "coin": "VIRTUAL",
           "side": "short",
-          "notional": 65901.46,
+          "notional": 65215.39,
           "entry_px": 2.33415,
-          "unrealized_pnl": 154676.207807,
+          "unrealized_pnl": 155362.277807,
           "leverage": 5
         },
         {
           "coin": "APEX",
           "side": "short",
-          "notional": 63931.36,
+          "notional": 63179.42,
           "entry_px": 2.45974,
-          "unrealized_pnl": 587334.150023,
+          "unrealized_pnl": 588086.096823,
           "leverage": 3
         },
         {
           "coin": "TRX",
           "side": "short",
-          "notional": 61027.28,
+          "notional": 60860.21,
           "entry_px": 0.316884,
-          "unrealized_pnl": -2720.508294,
+          "unrealized_pnl": -2553.436294,
           "leverage": 10
         },
         {
           "coin": "PENGU",
           "side": "short",
-          "notional": 57853.09,
+          "notional": 56992.95,
           "entry_px": 0.028834,
-          "unrealized_pnl": 143784.526257,
+          "unrealized_pnl": 144644.665257,
           "leverage": 5
         },
         {
           "coin": "SPX",
           "side": "short",
-          "notional": 54509.62,
+          "notional": 53238.78,
           "entry_px": 1.67172,
-          "unrealized_pnl": 178695.70317,
+          "unrealized_pnl": 179966.54817,
           "leverage": 5
         },
         {
           "coin": "2Z",
           "side": "short",
-          "notional": 48972.39,
+          "notional": 48526.8,
           "entry_px": 0.623842,
-          "unrealized_pnl": 903010.793278,
+          "unrealized_pnl": 903456.385278,
           "leverage": 3
         },
         {
           "coin": "ATOM",
           "side": "short",
-          "notional": 43305.84,
+          "notional": 43204.98,
           "entry_px": 10.1735,
-          "unrealized_pnl": 206962.72346,
+          "unrealized_pnl": 207063.58346,
           "leverage": 5
         },
         {
           "coin": "STX",
           "side": "short",
-          "notional": 37528.85,
+          "notional": 36853.49,
           "entry_px": 2.02824,
-          "unrealized_pnl": 166918.21147,
+          "unrealized_pnl": 167593.57147,
           "leverage": 5
         },
         {
           "coin": "FIL",
           "side": "short",
-          "notional": 21013.16,
+          "notional": 20725.04,
           "entry_px": 7.90791,
-          "unrealized_pnl": 133981.9535,
+          "unrealized_pnl": 134270.0735,
           "leverage": 5
         },
         {
           "coin": "CHIP",
           "side": "short",
-          "notional": 19858.7,
+          "notional": 19049.79,
           "entry_px": 0.078822,
-          "unrealized_pnl": 11473.207611,
+          "unrealized_pnl": 12282.120111,
           "leverage": 3
         },
         {
           "coin": "POL",
           "side": "short",
-          "notional": 16881.04,
+          "notional": 16683.92,
           "entry_px": 0.719196,
-          "unrealized_pnl": 109697.54158,
+          "unrealized_pnl": 109894.66158,
           "leverage": 5
         },
         {
           "coin": "GRASS",
           "side": "short",
-          "notional": 14220.8,
+          "notional": 13796.0,
           "entry_px": 0.45442,
-          "unrealized_pnl": -5132.227986,
+          "unrealized_pnl": -4707.427986,
+          "leverage": 3
+        },
+        {
+          "coin": "INIT",
+          "side": "short",
+          "notional": 12774.0,
+          "entry_px": 0.810288,
+          "unrealized_pnl": 68254.804265,
           "leverage": 3
         },
         {
           "coin": "kFLOKI",
           "side": "short",
-          "notional": 12807.53,
+          "notional": 12676.73,
           "entry_px": 0.230632,
-          "unrealized_pnl": 105968.013934,
+          "unrealized_pnl": 106098.823934,
           "leverage": 5
-        },
-        {
-          "coin": "INIT",
-          "side": "short",
-          "notional": 12420.4,
-          "entry_px": 0.810288,
-          "unrealized_pnl": 68608.404265,
-          "leverage": 3
         },
         {
           "coin": "OP",
           "side": "short",
-          "notional": 10088.06,
+          "notional": 9858.56,
           "entry_px": 2.26298,
-          "unrealized_pnl": 163030.22916,
+          "unrealized_pnl": 163259.72916,
           "leverage": 5
         },
         {
           "coin": "SEI",
           "side": "short",
-          "notional": 8832.04,
+          "notional": 8748.04,
           "entry_px": 0.589749,
-          "unrealized_pnl": 73732.954726,
+          "unrealized_pnl": 73816.954726,
           "leverage": 5
         },
         {
           "coin": "kBONK",
           "side": "short",
-          "notional": 7665.98,
+          "notional": 7675.5,
           "entry_px": 0.024837,
-          "unrealized_pnl": 51447.357873,
+          "unrealized_pnl": 51437.837873,
           "leverage": 10
         },
         {
           "coin": "SYRUP",
           "side": "short",
-          "notional": 6163.8,
+          "notional": 6094.2,
           "entry_px": 0.549201,
-          "unrealized_pnl": 10312.250848,
+          "unrealized_pnl": 10381.850848,
           "leverage": 3
         },
         {
           "coin": "TIA",
           "side": "short",
-          "notional": 2542.45,
+          "notional": 2471.73,
           "entry_px": 8.54819,
-          "unrealized_pnl": 32505.130475,
+          "unrealized_pnl": 32575.855475,
           "leverage": 5
         }
       ],
-      "total_notional": 151669997.58
+      "total_notional": 150541397.78
     },
     {
       "address": "0xdd53c5297309130ab5fe5623dc905752e3342b13",
       "display_name": null,
-      "account_value": 57817644.164753,
+      "account_value": 59438849.169198,
       "positions": [
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 16243499.02,
+          "notional": 16199680.78,
           "entry_px": 78478.3,
-          "unrealized_pnl": -1161116.13691,
+          "unrealized_pnl": -1117297.89535,
           "leverage": 3
         },
         {
           "coin": "NEAR",
           "side": "short",
-          "notional": 15824713.67,
+          "notional": 15690384.18,
           "entry_px": 2.31039,
-          "unrealized_pnl": -8936888.176036,
+          "unrealized_pnl": -8816088.10177,
           "leverage": 3
         },
         {
           "coin": "ZRO",
           "side": "short",
-          "notional": 13992119.63,
+          "notional": 13487811.97,
           "entry_px": 1.27595,
-          "unrealized_pnl": -5177377.634182,
+          "unrealized_pnl": -4673069.974882,
           "leverage": 3
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 11993710.36,
+          "notional": 11856190.34,
           "entry_px": 73.6491,
-          "unrealized_pnl": -1196021.45027,
+          "unrealized_pnl": -1058501.42973,
           "leverage": 3
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 11818252.29,
+          "notional": 11638900.87,
           "entry_px": 727.553,
-          "unrealized_pnl": -5478180.729885,
+          "unrealized_pnl": -5303958.563622,
           "leverage": 3
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 7553952.38,
+          "notional": 7521380.8,
           "entry_px": 24.6961,
-          "unrealized_pnl": -693102.639538,
+          "unrealized_pnl": -662366.236006,
           "leverage": 3
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 5919818.01,
+          "notional": 5987983.47,
           "entry_px": 0.004609,
-          "unrealized_pnl": -502912.101684,
+          "unrealized_pnl": -571077.566166,
           "leverage": 3
         },
         {
           "coin": "CASHCAT",
           "side": "short",
-          "notional": 5418269.2,
+          "notional": 5282929.46,
           "entry_px": 0.178634,
-          "unrealized_pnl": 2941482.543101,
+          "unrealized_pnl": 3076822.278125,
           "leverage": 3
         },
         {
           "coin": "PONS",
           "side": "short",
-          "notional": 5123429.93,
-          "entry_px": 0.467827,
-          "unrealized_pnl": 3141957.170801,
+          "notional": 5065413.14,
+          "entry_px": 0.467785,
+          "unrealized_pnl": 3199987.838598,
           "leverage": 3
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 3764449.89,
+          "notional": 3607804.22,
           "entry_px": 1.472046,
-          "unrealized_pnl": 224784.490765,
+          "unrealized_pnl": 276103.751699,
           "leverage": 3
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 3359416.77,
+          "notional": 3301154.73,
           "entry_px": 0.097396,
-          "unrealized_pnl": 548670.577702,
+          "unrealized_pnl": 606932.622202,
           "leverage": 3
         },
         {
           "coin": "GRASS",
           "side": "short",
-          "notional": 2918604.54,
+          "notional": 2830217.88,
           "entry_px": 0.72609,
-          "unrealized_pnl": 61777.472531,
-          "leverage": 3
-        },
-        {
-          "coin": "STRK",
-          "side": "short",
-          "notional": 2728840.98,
-          "entry_px": 0.07355,
-          "unrealized_pnl": 588383.612646,
+          "unrealized_pnl": 148897.976921,
           "leverage": 3
         },
         {
           "coin": "LINK",
           "side": "short",
-          "notional": 2653036.26,
+          "notional": 2615386.93,
           "entry_px": 11.92018,
-          "unrealized_pnl": -163296.67925,
+          "unrealized_pnl": -128478.400615,
+          "leverage": 3
+        },
+        {
+          "coin": "STRK",
+          "side": "short",
+          "notional": 2610234.93,
+          "entry_px": 0.07355,
+          "unrealized_pnl": 706989.657348,
           "leverage": 3
         },
         {
           "coin": "AERO",
           "side": "short",
-          "notional": 2512904.77,
-          "entry_px": 0.861326,
-          "unrealized_pnl": 52497.96048,
-          "leverage": 3
-        },
-        {
-          "coin": "LIT",
-          "side": "short",
-          "notional": 1956445.57,
-          "entry_px": 4.19452,
-          "unrealized_pnl": 131100.029894,
+          "notional": 2424396.94,
+          "entry_px": 0.861281,
+          "unrealized_pnl": 144770.810989,
           "leverage": 3
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 1916747.96,
+          "notional": 1892857.86,
           "entry_px": 7.40541,
-          "unrealized_pnl": -43627.99427,
+          "unrealized_pnl": -19737.88683,
+          "leverage": 3
+        },
+        {
+          "coin": "LIT",
+          "side": "short",
+          "notional": 1516148.77,
+          "entry_px": 4.19452,
+          "unrealized_pnl": 137993.838495,
           "leverage": 3
         },
         {
           "coin": "WLD",
           "side": "short",
-          "notional": 788645.48,
-          "entry_px": 0.57706,
-          "unrealized_pnl": 9218.16665,
+          "notional": 811023.15,
+          "entry_px": 0.57702,
+          "unrealized_pnl": -5249.837433,
           "leverage": 3
         },
         {
           "coin": "FARTCOIN",
           "side": "short",
-          "notional": 425040.89,
+          "notional": 422609.56,
           "entry_px": 0.1603,
-          "unrealized_pnl": 10949.074093,
+          "unrealized_pnl": 13480.394238,
           "leverage": 3
         },
         {
           "coin": "MON",
           "side": "short",
-          "notional": 237815.19,
+          "notional": 233489.37,
           "entry_px": 0.023829,
-          "unrealized_pnl": 14477.833059,
+          "unrealized_pnl": 18374.463876,
           "leverage": 3
         },
         {
           "coin": "HMSTR",
           "side": "short",
-          "notional": 1011.43,
+          "notional": 1004.74,
           "entry_px": 0.000171,
-          "unrealized_pnl": 138.579507,
+          "unrealized_pnl": 145.277742,
           "leverage": 3
         },
         {
           "coin": "AAVE",
           "side": "short",
-          "notional": 856.69,
+          "notional": 846.3,
           "entry_px": 125.5203,
-          "unrealized_pnl": -173.860657,
+          "unrealized_pnl": -163.470257,
           "leverage": 3
         },
         {
           "coin": "ETH",
           "side": "long",
-          "notional": 22.69,
+          "notional": 22.55,
           "entry_px": 2442.7,
-          "unrealized_pnl": 0.457457,
+          "unrealized_pnl": 0.32214,
           "leverage": 3
         },
         {
           "coin": "SOL",
           "side": "long",
-          "notional": 20.55,
+          "notional": 20.35,
           "entry_px": 100.75,
-          "unrealized_pnl": 1.4098,
+          "unrealized_pnl": 1.2027,
           "leverage": 3
         }
       ],
-      "total_notional": 117151624.15
+      "total_notional": 114997893.29
     },
     {
       "address": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
       "display_name": null,
-      "account_value": 40349690.069686,
+      "account_value": 39298577.246027,
       "positions": [
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 35993247.57,
-          "entry_px": 2448.41,
-          "unrealized_pnl": -643330.243287,
+          "notional": 37121456.51,
+          "entry_px": 2451.78,
+          "unrealized_pnl": -394212.667515,
           "leverage": 15
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 20145661.93,
-          "entry_px": 105.9456,
-          "unrealized_pnl": -414263.052746,
+          "notional": 19690778.44,
+          "entry_px": 105.9892,
+          "unrealized_pnl": -200568.179642,
           "leverage": 20
         },
         {
           "coin": "BTC",
           "side": "long",
-          "notional": 6904259.62,
-          "entry_px": 84406.7,
-          "unrealized_pnl": 9254.577671,
+          "notional": 9030484.34,
+          "entry_px": 84411.1,
+          "unrealized_pnl": -12765.645323,
           "leverage": 20
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 5004785.61,
-          "entry_px": 1.333052,
-          "unrealized_pnl": -201933.32538,
+          "notional": 4320292.1,
+          "entry_px": 1.333334,
+          "unrealized_pnl": -107630.22313,
+          "leverage": 10
+        },
+        {
+          "coin": "DOGE",
+          "side": "short",
+          "notional": 4126902.77,
+          "entry_px": 0.082943,
+          "unrealized_pnl": 47246.275717,
           "leverage": 10
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 4581067.29,
-          "entry_px": 1268.8623,
-          "unrealized_pnl": -295015.074165,
+          "notional": 3937584.02,
+          "entry_px": 1269.5,
+          "unrealized_pnl": -197954.186917,
           "leverage": 5
-        },
-        {
-          "coin": "HYPE",
-          "side": "short",
-          "notional": 4390688.86,
-          "entry_px": 80.9493,
-          "unrealized_pnl": -46031.698241,
-          "leverage": 3
-        },
-        {
-          "coin": "DOGE",
-          "side": "short",
-          "notional": 4210622.27,
-          "entry_px": 0.082948,
-          "unrealized_pnl": -292.625648,
-          "leverage": 10
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 2211854.03,
-          "entry_px": 0.004934,
-          "unrealized_pnl": -45218.89842,
+          "notional": 3195402.51,
+          "entry_px": 0.00501,
+          "unrealized_pnl": -52975.612691,
+          "leverage": 3
+        },
+        {
+          "coin": "HYPE",
+          "side": "short",
+          "notional": 3075972.91,
+          "entry_px": 81.0373,
+          "unrealized_pnl": 6402.981889,
           "leverage": 3
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 1693537.53,
-          "entry_px": 0.220487,
-          "unrealized_pnl": 19559.534817,
+          "notional": 1692467.89,
+          "entry_px": 0.220434,
+          "unrealized_pnl": 52601.535533,
           "leverage": 5
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 1631324.15,
-          "entry_px": 730.03,
-          "unrealized_pnl": -40592.619487,
+          "notional": 1640819.07,
+          "entry_px": 730.217,
+          "unrealized_pnl": -37293.033728,
           "leverage": 5
         },
         {
           "coin": "ZRO",
           "side": "long",
-          "notional": 1597618.1,
+          "notional": 1539426.2,
           "entry_px": 1.29271,
-          "unrealized_pnl": 577937.05035,
+          "unrealized_pnl": 520149.126027,
           "leverage": 5
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 1562164.38,
-          "entry_px": 7.43843,
-          "unrealized_pnl": -28751.08882,
+          "notional": 1509099.06,
+          "entry_px": 7.44007,
+          "unrealized_pnl": -8746.432543,
           "leverage": 10
         },
         {
           "coin": "kPEPE",
           "side": "short",
-          "notional": 1415015.97,
-          "entry_px": 0.004445,
-          "unrealized_pnl": -68382.985549,
+          "notional": 1299033.32,
+          "entry_px": 0.004446,
+          "unrealized_pnl": -56157.882224,
           "leverage": 10
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 1380215.43,
-          "entry_px": 25.1935,
-          "unrealized_pnl": -101392.552056,
+          "notional": 1282655.01,
+          "entry_px": 25.1975,
+          "unrealized_pnl": -89204.770234,
           "leverage": 3
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 1265849.56,
-          "entry_px": 0.080176,
-          "unrealized_pnl": -53622.377427,
+          "notional": 1123083.97,
+          "entry_px": 0.080178,
+          "unrealized_pnl": -28559.209938,
           "leverage": 5
         },
         {
           "coin": "AAVE",
           "side": "short",
-          "notional": 1108797.78,
+          "notional": 1095349.7,
           "entry_px": 170.0785,
-          "unrealized_pnl": 88704.948018,
+          "unrealized_pnl": 102153.028818,
           "leverage": 10
         },
         {
           "coin": "TRX",
           "side": "long",
-          "notional": 1070809.53,
+          "notional": 1067878.02,
           "entry_px": 0.332048,
-          "unrealized_pnl": -1223.382213,
+          "unrealized_pnl": -4154.895625,
           "leverage": 10
         },
         {
           "coin": "ASTER",
           "side": "short",
-          "notional": 1024021.35,
-          "entry_px": 0.732788,
-          "unrealized_pnl": 22330.514892,
+          "notional": 1026807.88,
+          "entry_px": 0.732757,
+          "unrealized_pnl": 21615.198672,
           "leverage": 3
         },
         {
           "coin": "CASHCAT",
           "side": "short",
-          "notional": 1014488.56,
-          "entry_px": 0.113025,
-          "unrealized_pnl": -24134.83319,
+          "notional": 953291.18,
+          "entry_px": 0.113113,
+          "unrealized_pnl": 1906.863017,
           "leverage": 1
+        },
+        {
+          "coin": "LIT",
+          "side": "long",
+          "notional": 904226.85,
+          "entry_px": 3.724509,
+          "unrealized_pnl": 28244.539884,
+          "leverage": 3
         },
         {
           "coin": "ARB",
           "side": "short",
-          "notional": 982384.99,
-          "entry_px": 0.19303,
-          "unrealized_pnl": -9996.635207,
+          "notional": 885857.08,
+          "entry_px": 0.19306,
+          "unrealized_pnl": 19729.860639,
           "leverage": 10
         },
         {
           "coin": "VIRTUAL",
           "side": "short",
-          "notional": 887093.69,
-          "entry_px": 0.74286,
-          "unrealized_pnl": 57871.731238,
+          "notional": 876341.98,
+          "entry_px": 0.74282,
+          "unrealized_pnl": 66940.933535,
           "leverage": 5
         },
         {
           "coin": "WLD",
           "side": "short",
-          "notional": 706725.37,
-          "entry_px": 0.52399,
-          "unrealized_pnl": -57494.818976,
+          "notional": 715000.52,
+          "entry_px": 0.52468,
+          "unrealized_pnl": -69064.467695,
           "leverage": 10
         },
         {
           "coin": "kBONK",
           "side": "short",
-          "notional": 689905.97,
-          "entry_px": 0.003309,
-          "unrealized_pnl": 19012.766702,
-          "leverage": 10
-        },
-        {
-          "coin": "LTC",
-          "side": "short",
-          "notional": 661650.95,
-          "entry_px": 61.0414,
-          "unrealized_pnl": -9671.666247,
+          "notional": 691517.41,
+          "entry_px": 0.003308,
+          "unrealized_pnl": 17981.59671,
           "leverage": 10
         },
         {
           "coin": "SUI",
           "side": "short",
-          "notional": 570144.48,
-          "entry_px": 1.03002,
-          "unrealized_pnl": -6904.007079,
+          "notional": 684924.94,
+          "entry_px": 1.03272,
+          "unrealized_pnl": 611.669851,
+          "leverage": 10
+        },
+        {
+          "coin": "LTC",
+          "side": "short",
+          "notional": 651195.11,
+          "entry_px": 61.0417,
+          "unrealized_pnl": -4010.514,
           "leverage": 10
         },
         {
           "coin": "PAXG",
           "side": "long",
-          "notional": 554588.97,
-          "entry_px": 4135.809,
-          "unrealized_pnl": 38.977918,
+          "notional": 549520.82,
+          "entry_px": 4135.855,
+          "unrealized_pnl": -845.75578,
           "leverage": 5
         },
         {
           "coin": "TIA",
           "side": "short",
-          "notional": 530990.77,
-          "entry_px": 0.62463,
-          "unrealized_pnl": 3871.699717,
+          "notional": 515286.45,
+          "entry_px": 0.62452,
+          "unrealized_pnl": 18517.780154,
           "leverage": 5
         },
         {
           "coin": "CRV",
           "side": "short",
-          "notional": 482607.19,
-          "entry_px": 0.35865,
-          "unrealized_pnl": -40446.841791,
+          "notional": 499874.63,
+          "entry_px": 0.3599,
+          "unrealized_pnl": -55324.091138,
           "leverage": 10
         },
         {
           "coin": "GRAM",
           "side": "short",
-          "notional": 432939.09,
-          "entry_px": 1.351102,
-          "unrealized_pnl": -990.246245,
+          "notional": 493155.56,
+          "entry_px": 1.352969,
+          "unrealized_pnl": -4131.546348,
           "leverage": 5
         },
         {
           "coin": "TAO",
           "side": "short",
-          "notional": 420703.44,
-          "entry_px": 273.756,
-          "unrealized_pnl": -2176.089464,
+          "notional": 425020.74,
+          "entry_px": 273.826,
+          "unrealized_pnl": 2948.741351,
           "leverage": 5
         },
         {
           "coin": "LDO",
           "side": "short",
-          "notional": 413755.62,
-          "entry_px": 0.41781,
-          "unrealized_pnl": 6363.584967,
+          "notional": 420152.84,
+          "entry_px": 0.41738,
+          "unrealized_pnl": 12610.809942,
           "leverage": 5
         },
         {
           "coin": "STRK",
           "side": "short",
-          "notional": 397981.82,
-          "entry_px": 0.06016,
-          "unrealized_pnl": -2301.724679,
+          "notional": 379895.58,
+          "entry_px": 0.06017,
+          "unrealized_pnl": 15044.119443,
           "leverage": 3
         },
         {
           "coin": "EIGEN",
           "side": "short",
-          "notional": 377526.65,
-          "entry_px": 0.2335,
-          "unrealized_pnl": -17735.90191,
+          "notional": 378065.97,
+          "entry_px": 0.2336,
+          "unrealized_pnl": -17261.421258,
           "leverage": 5
-        },
-        {
-          "coin": "LIT",
-          "side": "long",
-          "notional": 363092.12,
-          "entry_px": 3.44664,
-          "unrealized_pnl": 44746.601036,
-          "leverage": 3
         },
         {
           "coin": "PENGU",
           "side": "short",
-          "notional": 360833.72,
-          "entry_px": 0.007773,
-          "unrealized_pnl": -21774.213237,
+          "notional": 351203.83,
+          "entry_px": 0.007777,
+          "unrealized_pnl": -16035.956578,
           "leverage": 5
         },
         {
           "coin": "LINK",
           "side": "long",
-          "notional": 354695.73,
+          "notional": 346572.76,
           "entry_px": 12.62686,
-          "unrealized_pnl": 2098.090531,
+          "unrealized_pnl": -2512.081124,
           "leverage": 10
         },
         {
           "coin": "JUP",
           "side": "long",
-          "notional": 354428.51,
+          "notional": 331624.77,
           "entry_px": 0.303817,
-          "unrealized_pnl": 31254.702697,
+          "unrealized_pnl": 23614.187299,
           "leverage": 5
         },
         {
           "coin": "POPCAT",
           "side": "short",
-          "notional": 322005.79,
+          "notional": 320682.58,
           "entry_px": 0.051952,
-          "unrealized_pnl": 28726.902901,
+          "unrealized_pnl": 30050.112621,
           "leverage": 3
         },
         {
           "coin": "FARTCOIN",
           "side": "long",
-          "notional": 316637.25,
+          "notional": 314752.99,
           "entry_px": 0.13968,
-          "unrealized_pnl": 33627.997067,
+          "unrealized_pnl": 31743.733925,
           "leverage": 3
         },
         {
           "coin": "GRASS",
           "side": "short",
-          "notional": 308770.04,
-          "entry_px": 0.65756,
-          "unrealized_pnl": -23222.775661,
+          "notional": 306274.58,
+          "entry_px": 0.65961,
+          "unrealized_pnl": -13402.304774,
           "leverage": 3
         },
         {
           "coin": "SPX",
           "side": "short",
-          "notional": 265938.43,
-          "entry_px": 0.36949,
-          "unrealized_pnl": -14467.500043,
-          "leverage": 5
-        },
-        {
-          "coin": "MORPHO",
-          "side": "short",
-          "notional": 246009.01,
-          "entry_px": 2.38519,
-          "unrealized_pnl": 288.159888,
+          "notional": 287514.37,
+          "entry_px": 0.3713,
+          "unrealized_pnl": -7783.843911,
           "leverage": 5
         },
         {
           "coin": "APT",
           "side": "short",
-          "notional": 238376.85,
-          "entry_px": 0.816,
-          "unrealized_pnl": -3598.652038,
+          "notional": 243466.76,
+          "entry_px": 0.8164,
+          "unrealized_pnl": -1573.888069,
           "leverage": 10
+        },
+        {
+          "coin": "MORPHO",
+          "side": "short",
+          "notional": 233697.63,
+          "entry_px": 2.38518,
+          "unrealized_pnl": 2644.540743,
+          "leverage": 5
         },
         {
           "coin": "ONDO",
           "side": "long",
-          "notional": 223117.39,
-          "entry_px": 0.450619,
-          "unrealized_pnl": 7775.531583,
+          "notional": 219542.21,
+          "entry_px": 0.45062,
+          "unrealized_pnl": 5077.708913,
           "leverage": 10
-        },
-        {
-          "coin": "SEI",
-          "side": "short",
-          "notional": 185439.09,
-          "entry_px": 0.065883,
-          "unrealized_pnl": 8224.006619,
-          "leverage": 5
         },
         {
           "coin": "XLM",
           "side": "short",
-          "notional": 173983.23,
-          "entry_px": 0.181947,
-          "unrealized_pnl": -3331.996682,
+          "notional": 182145.31,
+          "entry_px": 0.182108,
+          "unrealized_pnl": -1990.372152,
           "leverage": 5
         },
         {
-          "coin": "MET",
+          "coin": "SEI",
           "side": "short",
-          "notional": 154222.43,
-          "entry_px": 0.352976,
-          "unrealized_pnl": -2769.175705,
-          "leverage": 3
-        },
-        {
-          "coin": "MELANIA",
-          "side": "long",
-          "notional": 153730.03,
-          "entry_px": 0.09935,
-          "unrealized_pnl": -20980.948358,
-          "leverage": 3
-        },
-        {
-          "coin": "BCH",
-          "side": "short",
-          "notional": 151567.6,
-          "entry_px": 278.973,
-          "unrealized_pnl": -4536.063694,
-          "leverage": 10
-        },
-        {
-          "coin": "AVNT",
-          "side": "short",
-          "notional": 125379.27,
-          "entry_px": 0.123839,
-          "unrealized_pnl": 4901.643567,
+          "notional": 179702.99,
+          "entry_px": 0.065874,
+          "unrealized_pnl": 9744.557691,
           "leverage": 5
-        },
-        {
-          "coin": "AVAX",
-          "side": "short",
-          "notional": 121902.92,
-          "entry_px": 9.8572,
-          "unrealized_pnl": 281.362991,
-          "leverage": 10
-        },
-        {
-          "coin": "SNX",
-          "side": "long",
-          "notional": 121058.64,
-          "entry_px": 0.23396,
-          "unrealized_pnl": -2868.7225,
-          "leverage": 3
         },
         {
           "coin": "NEAR",
           "side": "long",
-          "notional": 116498.99,
-          "entry_px": 5.28233,
-          "unrealized_pnl": 565.53376,
+          "notional": 169763.4,
+          "entry_px": 5.30365,
+          "unrealized_pnl": -974.00036,
+          "leverage": 10
+        },
+        {
+          "coin": "BCH",
+          "side": "short",
+          "notional": 165644.73,
+          "entry_px": 279.764,
+          "unrealized_pnl": -4602.408374,
+          "leverage": 10
+        },
+        {
+          "coin": "MELANIA",
+          "side": "long",
+          "notional": 152622.16,
+          "entry_px": 0.09935,
+          "unrealized_pnl": -22088.81747,
+          "leverage": 3
+        },
+        {
+          "coin": "MET",
+          "side": "short",
+          "notional": 150574.06,
+          "entry_px": 0.35302,
+          "unrealized_pnl": -2144.003576,
+          "leverage": 3
+        },
+        {
+          "coin": "AVNT",
+          "side": "short",
+          "notional": 122471.49,
+          "entry_px": 0.123834,
+          "unrealized_pnl": 6877.219588,
+          "leverage": 5
+        },
+        {
+          "coin": "SNX",
+          "side": "long",
+          "notional": 120515.43,
+          "entry_px": 0.23394,
+          "unrealized_pnl": -3893.878303,
+          "leverage": 3
+        },
+        {
+          "coin": "AVAX",
+          "side": "short",
+          "notional": 108041.42,
+          "entry_px": 9.8574,
+          "unrealized_pnl": 1940.254842,
           "leverage": 10
         },
         {
           "coin": "MON",
           "side": "long",
-          "notional": 107988.69,
+          "notional": 106205.07,
           "entry_px": 0.021985,
-          "unrealized_pnl": 2292.559181,
+          "unrealized_pnl": 508.933274,
           "leverage": 3
         },
         {
           "coin": "WIF",
           "side": "short",
-          "notional": 102154.52,
-          "entry_px": 0.208568,
-          "unrealized_pnl": -1622.153184,
+          "notional": 106090.92,
+          "entry_px": 0.208713,
+          "unrealized_pnl": -1283.82054,
           "leverage": 5
         },
         {
           "coin": "PONS",
           "side": "short",
-          "notional": 88498.86,
-          "entry_px": 0.287262,
-          "unrealized_pnl": -832.436334,
+          "notional": 94455.04,
+          "entry_px": 0.288245,
+          "unrealized_pnl": 515.911086,
           "leverage": 3
         },
         {
           "coin": "WLFI",
           "side": "long",
-          "notional": 78018.52,
-          "entry_px": 0.055451,
-          "unrealized_pnl": 654.214518,
+          "notional": 80024.94,
+          "entry_px": 0.055472,
+          "unrealized_pnl": 1551.782435,
           "leverage": 5
         },
         {
           "coin": "TRUMP",
           "side": "short",
-          "notional": 33911.98,
-          "entry_px": 1.84182,
-          "unrealized_pnl": -501.925631,
+          "notional": 39075.23,
+          "entry_px": 1.8426,
+          "unrealized_pnl": 151.180088,
           "leverage": 10
         },
         {
           "coin": "STBL",
           "side": "long",
-          "notional": 23798.35,
-          "entry_px": 0.0253,
-          "unrealized_pnl": 865.1287,
+          "notional": 26852.26,
+          "entry_px": 0.025459,
+          "unrealized_pnl": 791.878077,
           "leverage": 3
         },
         {
           "coin": "ATOM",
           "side": "short",
-          "notional": 22918.67,
+          "notional": 21272.74,
           "entry_px": 1.7617,
-          "unrealized_pnl": 17.991567,
+          "unrealized_pnl": 66.398693,
           "leverage": 5
-        },
-        {
-          "coin": "USELESS",
-          "side": "long",
-          "notional": 19559.98,
-          "entry_px": 0.169129,
-          "unrealized_pnl": 86.419328,
-          "leverage": 3
-        },
-        {
-          "coin": "AIXBT",
-          "side": "short",
-          "notional": 12673.64,
-          "entry_px": 0.019511,
-          "unrealized_pnl": -401.508945,
-          "leverage": 3
         },
         {
           "coin": "ADA",
           "side": "short",
-          "notional": 8072.31,
-          "entry_px": 0.228973,
-          "unrealized_pnl": 24.875725,
+          "notional": 16463.92,
+          "entry_px": 0.228282,
+          "unrealized_pnl": 172.177645,
           "leverage": 10
         },
         {
+          "coin": "AIXBT",
+          "side": "short",
+          "notional": 13410.15,
+          "entry_px": 0.019553,
+          "unrealized_pnl": -237.157289,
+          "leverage": 3
+        },
+        {
           "coin": "2Z",
-          "side": "long",
-          "notional": 2915.24,
-          "entry_px": 0.031967,
-          "unrealized_pnl": 11.344776,
+          "side": "short",
+          "notional": 5210.18,
+          "entry_px": 0.032268,
+          "unrealized_pnl": 76.744792,
           "leverage": 3
         },
         {
           "coin": "kFLOKI",
           "side": "long",
-          "notional": 1007.1,
-          "entry_px": 0.024974,
-          "unrealized_pnl": -4.260897,
+          "notional": 3517.95,
+          "entry_px": 0.024892,
+          "unrealized_pnl": -39.723193,
           "leverage": 5
+        },
+        {
+          "coin": "USELESS",
+          "side": "long",
+          "notional": 2042.69,
+          "entry_px": 0.169797,
+          "unrealized_pnl": -13.047217,
+          "leverage": 3
         },
         {
           "coin": "GRIFFAIN",
           "side": "short",
-          "notional": 53.47,
+          "notional": 53.92,
           "entry_px": 0.007898,
-          "unrealized_pnl": -25.553486,
+          "unrealized_pnl": -25.998896,
           "leverage": 3
+        },
+        {
+          "coin": "PYTH",
+          "side": "long",
+          "notional": 22.76,
+          "entry_px": 0.079639,
+          "unrealized_pnl": -0.254609,
+          "leverage": 5
         },
         {
           "coin": "PURR",
           "side": "long",
-          "notional": 12.75,
+          "notional": 12.56,
           "entry_px": 0.087038,
-          "unrealized_pnl": 2.214454,
+          "unrealized_pnl": 2.028114,
           "leverage": 3
         },
         {
           "coin": "MOODENG",
           "side": "long",
-          "notional": 10.57,
+          "notional": 10.5,
           "entry_px": 0.094647,
-          "unrealized_pnl": -12.61603,
+          "unrealized_pnl": -12.688795,
           "leverage": 3
-        },
-        {
-          "coin": "PYTH",
-          "side": "short",
-          "notional": 9.8,
-          "entry_px": 0.079568,
-          "unrealized_pnl": -0.013095,
-          "leverage": 5
         },
         {
           "coin": "KAITO",
           "side": "long",
-          "notional": 7.1,
+          "notional": 7.03,
           "entry_px": 0.34043,
-          "unrealized_pnl": -1.4075,
+          "unrealized_pnl": -1.47775,
           "leverage": 5
         },
         {
           "coin": "BERA",
           "side": "long",
-          "notional": 6.8,
+          "notional": 6.59,
           "entry_px": 0.2609,
-          "unrealized_pnl": -2.829381,
+          "unrealized_pnl": -3.040818,
+          "leverage": 5
+        },
+        {
+          "coin": "ETHFI",
+          "side": "long",
+          "notional": 6.39,
+          "entry_px": 1.1562,
+          "unrealized_pnl": -4.01157,
           "leverage": 5
         },
         {
           "coin": "CHIP",
           "side": "long",
-          "notional": 6.59,
+          "notional": 6.33,
           "entry_px": 0.03071,
-          "unrealized_pnl": 2.540868,
+          "unrealized_pnl": 2.272248,
           "leverage": 3
-        },
-        {
-          "coin": "ETHFI",
-          "side": "long",
-          "notional": 6.49,
-          "entry_px": 1.1562,
-          "unrealized_pnl": -3.91374,
-          "leverage": 5
         },
         {
           "coin": "GOAT",
           "side": "long",
-          "notional": 3.56,
+          "notional": 3.52,
           "entry_px": 0.046428,
-          "unrealized_pnl": -7.301736,
+          "unrealized_pnl": -7.341984,
           "leverage": 3
         },
         {
           "coin": "INJ",
           "side": "short",
-          "notional": 3.41,
+          "notional": 3.45,
           "entry_px": 7.83,
-          "unrealized_pnl": -0.27788,
+          "unrealized_pnl": -0.31968,
           "leverage": 5
         },
         {
           "coin": "BOME",
           "side": "short",
-          "notional": 3.28,
+          "notional": 3.24,
           "entry_px": 0.000572,
-          "unrealized_pnl": -0.361904,
+          "unrealized_pnl": -0.326253,
           "leverage": 3
         },
         {
           "coin": "kSHIB",
           "side": "short",
-          "notional": 3.04,
+          "notional": 3.01,
           "entry_px": 0.014599,
-          "unrealized_pnl": 5.485512,
+          "unrealized_pnl": 5.511792,
           "leverage": 10
         },
         {
           "coin": "PNUT",
           "side": "short",
-          "notional": 2.3,
+          "notional": 2.28,
           "entry_px": 0.17553,
-          "unrealized_pnl": 6.496467,
+          "unrealized_pnl": 6.516507,
           "leverage": 3
         },
         {
           "coin": "STX",
           "side": "short",
-          "notional": 1.53,
+          "notional": 1.5,
           "entry_px": 0.6031,
-          "unrealized_pnl": 0.946239,
+          "unrealized_pnl": 0.973709,
           "leverage": 5
         },
         {
           "coin": "ZORA",
           "side": "long",
-          "notional": 0.95,
+          "notional": 0.94,
           "entry_px": 0.026761,
-          "unrealized_pnl": -2.772259,
+          "unrealized_pnl": -2.783796,
           "leverage": 3
         },
         {
@@ -3097,15 +3097,15 @@
           "side": "long",
           "notional": 0.76,
           "entry_px": 0.002621,
-          "unrealized_pnl": -1.473984,
+          "unrealized_pnl": -1.479955,
           "leverage": 3
         },
         {
           "coin": "0G",
           "side": "long",
-          "notional": 0.73,
+          "notional": 0.72,
           "entry_px": 1.8125,
-          "unrealized_pnl": -4.71015,
+          "unrealized_pnl": -4.71621,
           "leverage": 3
         },
         {
@@ -3113,7 +3113,7 @@
           "side": "long",
           "notional": 0.41,
           "entry_px": 1.141,
-          "unrealized_pnl": -6.437046,
+          "unrealized_pnl": -6.439974,
           "leverage": 3
         },
         {
@@ -3121,15 +3121,15 @@
           "side": "long",
           "notional": 0.19,
           "entry_px": 0.15174,
-          "unrealized_pnl": -2.492514,
+          "unrealized_pnl": -2.494638,
           "leverage": 3
         },
         {
           "coin": "SOPH",
           "side": "long",
-          "notional": 0.19,
+          "notional": 0.18,
           "entry_px": 0.053636,
-          "unrealized_pnl": -5.821182,
+          "unrealized_pnl": -5.827566,
           "leverage": 3
         },
         {
@@ -3137,687 +3137,687 @@
           "side": "long",
           "notional": 0.13,
           "entry_px": 1.5,
-          "unrealized_pnl": -3.015558,
+          "unrealized_pnl": -3.016629,
           "leverage": 3
         }
       ],
-      "total_notional": 111474367.47
+      "total_notional": 112620402.35
     },
     {
       "address": "0xdf954bbe619273a56e0cfa90dad8382195dc7d72",
       "display_name": null,
-      "account_value": 11151059.399835,
+      "account_value": 11088829.600129,
       "positions": [
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 48702950.11,
+          "notional": 48412448.07,
           "entry_px": 2413.3,
-          "unrealized_pnl": -1556357.938672,
+          "unrealized_pnl": -1265855.8997,
           "leverage": 25
         },
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 34478536.04,
-          "entry_px": 83158.8,
-          "unrealized_pnl": -555268.17679,
+          "notional": 34387786.24,
+          "entry_px": 83158.9,
+          "unrealized_pnl": -462249.87011,
           "leverage": 40
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 2751148.14,
-          "entry_px": 75.4525,
-          "unrealized_pnl": -213699.091245,
+          "notional": 2720576.3,
+          "entry_px": 75.4546,
+          "unrealized_pnl": -182147.377095,
           "leverage": 10
         },
         {
           "coin": "NEAR",
           "side": "short",
-          "notional": 2369017.24,
-          "entry_px": 4.11868,
-          "unrealized_pnl": -530838.801577,
+          "notional": 2354713.37,
+          "entry_px": 4.11932,
+          "unrealized_pnl": -515324.664417,
           "leverage": 10
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 1745530.56,
+          "notional": 1718262.53,
           "entry_px": 1.374868,
-          "unrealized_pnl": -17883.470884,
+          "unrealized_pnl": 9384.553816,
           "leverage": 20
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 1363623.47,
-          "entry_px": 106.076,
-          "unrealized_pnl": -26396.446874,
+          "notional": 1350128.89,
+          "entry_px": 106.0762,
+          "unrealized_pnl": -12655.413674,
           "leverage": 20
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 1281983.65,
+          "notional": 1266005.17,
           "entry_px": 6.42874,
-          "unrealized_pnl": -194407.305452,
+          "unrealized_pnl": -178428.821152,
           "leverage": 10
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 1106279.46,
-          "entry_px": 1042.5678,
-          "unrealized_pnl": -255835.987513,
+          "notional": 1090279.35,
+          "entry_px": 1042.5826,
+          "unrealized_pnl": -239896.839018,
           "leverage": 10
         },
         {
           "coin": "AAVE",
           "side": "short",
-          "notional": 968043.73,
+          "notional": 956302.79,
           "entry_px": 123.3965,
-          "unrealized_pnl": -209513.859668,
+          "unrealized_pnl": -197772.917768,
           "leverage": 10
         },
         {
           "coin": "DOGE",
           "side": "short",
-          "notional": 866856.86,
-          "entry_px": 0.084917,
-          "unrealized_pnl": 20513.276187,
+          "notional": 857935.33,
+          "entry_px": 0.084914,
+          "unrealized_pnl": 30435.094883,
           "leverage": 10
         },
         {
           "coin": "ONDO",
           "side": "short",
-          "notional": 506323.53,
+          "notional": 500250.55,
           "entry_px": 0.39894,
-          "unrealized_pnl": -73688.947449,
+          "unrealized_pnl": -67615.971449,
           "leverage": 10
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 472227.43,
-          "entry_px": 0.187787,
-          "unrealized_pnl": -65389.183037,
+          "notional": 464963.11,
+          "entry_px": 0.18789,
+          "unrealized_pnl": -56327.329537,
           "leverage": 10
         },
         {
           "coin": "LTC",
           "side": "short",
-          "notional": 468342.24,
+          "notional": 464357.93,
           "entry_px": 55.5693,
-          "unrealized_pnl": -48217.395623,
+          "unrealized_pnl": -44233.080633,
           "leverage": 10
         },
         {
           "coin": "WLD",
           "side": "short",
-          "notional": 410999.95,
-          "entry_px": 0.40512,
-          "unrealized_pnl": -119087.271286,
+          "notional": 442903.41,
+          "entry_px": 0.41455,
+          "unrealized_pnl": -126759.556829,
           "leverage": 10
         },
         {
           "coin": "PUMP",
           "side": "short",
-          "notional": 409955.34,
+          "notional": 414686.08,
           "entry_px": 0.004554,
-          "unrealized_pnl": -39269.837826,
+          "unrealized_pnl": -43990.383704,
           "leverage": 10
         },
         {
           "coin": "STRK",
           "side": "short",
-          "notional": 338804.29,
+          "notional": 324078.54,
           "entry_px": 0.10127,
-          "unrealized_pnl": 228246.114339,
+          "unrealized_pnl": 242971.867004,
           "leverage": 5
         },
         {
           "coin": "ARB",
           "side": "short",
-          "notional": 330603.52,
+          "notional": 320160.91,
           "entry_px": 0.19466,
-          "unrealized_pnl": -607.266787,
+          "unrealized_pnl": 9835.342621,
           "leverage": 10
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 316478.88,
+          "notional": 310990.22,
           "entry_px": 0.089186,
-          "unrealized_pnl": 20654.153681,
+          "unrealized_pnl": 26142.816773,
           "leverage": 10
         },
         {
           "coin": "VVV",
           "side": "short",
-          "notional": 306378.67,
+          "notional": 305139.23,
           "entry_px": 20.8064,
-          "unrealized_pnl": -71938.594086,
+          "unrealized_pnl": -70699.152586,
           "leverage": 3
-        },
-        {
-          "coin": "HBAR",
-          "side": "short",
-          "notional": 302250.28,
-          "entry_px": 0.085396,
-          "unrealized_pnl": -681.220312,
-          "leverage": 5
         },
         {
           "coin": "FET",
           "side": "short",
-          "notional": 301909.92,
+          "notional": 299029.8,
           "entry_px": 0.181542,
-          "unrealized_pnl": -24969.234581,
+          "unrealized_pnl": -22089.107573,
           "leverage": 5
         },
         {
           "coin": "PAXG",
           "side": "short",
-          "notional": 299457.78,
+          "notional": 298979.93,
           "entry_px": 4190.447,
-          "unrealized_pnl": 3934.830122,
+          "unrealized_pnl": 4412.676722,
           "leverage": 10
+        },
+        {
+          "coin": "HBAR",
+          "side": "short",
+          "notional": 297546.43,
+          "entry_px": 0.085396,
+          "unrealized_pnl": 4022.624468,
+          "leverage": 5
         },
         {
           "coin": "LINK",
           "side": "short",
-          "notional": 298507.16,
+          "notional": 294606.03,
           "entry_px": 11.35181,
-          "unrealized_pnl": -31730.428158,
+          "unrealized_pnl": -27829.295358,
           "leverage": 10
         },
         {
           "coin": "POL",
           "side": "short",
-          "notional": 297647.84,
+          "notional": 294172.2,
           "entry_px": 0.097064,
-          "unrealized_pnl": 3567.014015,
+          "unrealized_pnl": 7042.649535,
           "leverage": 5
         },
         {
           "coin": "CRV",
           "side": "short",
-          "notional": 280480.07,
+          "notional": 289966.5,
           "entry_px": 0.34571,
-          "unrealized_pnl": -32778.246799,
+          "unrealized_pnl": -42264.672375,
           "leverage": 10
         },
         {
           "coin": "BCH",
           "side": "short",
-          "notional": 241396.67,
-          "entry_px": 283.347,
-          "unrealized_pnl": -3552.648295,
+          "notional": 242799.8,
+          "entry_px": 283.366,
+          "unrealized_pnl": -3707.170815,
           "leverage": 10
         },
         {
           "coin": "ETHFI",
           "side": "short",
-          "notional": 232087.61,
+          "notional": 228590.24,
           "entry_px": 0.51809,
-          "unrealized_pnl": -65393.580846,
+          "unrealized_pnl": -61896.211609,
           "leverage": 5
         },
         {
           "coin": "MON",
           "side": "short",
-          "notional": 231882.5,
+          "notional": 228052.55,
           "entry_px": 0.023635,
-          "unrealized_pnl": 12116.73055,
+          "unrealized_pnl": 15946.683754,
+          "leverage": 5
+        },
+        {
+          "coin": "TAO",
+          "side": "short",
+          "notional": 207872.84,
+          "entry_px": 259.559,
+          "unrealized_pnl": -9463.420444,
           "leverage": 5
         },
         {
           "coin": "AERO",
           "side": "short",
-          "notional": 211939.97,
+          "notional": 204164.99,
           "entry_px": 0.714982,
-          "unrealized_pnl": -32334.304838,
+          "unrealized_pnl": -24559.320785,
           "leverage": 3
-        },
-        {
-          "coin": "TAO",
-          "side": "short",
-          "notional": 210349.52,
-          "entry_px": 259.559,
-          "unrealized_pnl": -11940.099124,
-          "leverage": 5
         },
         {
           "coin": "SUI",
           "side": "short",
-          "notional": 184431.54,
+          "notional": 182512.32,
           "entry_px": 0.72561,
-          "unrealized_pnl": -56078.757824,
+          "unrealized_pnl": -54159.530619,
           "leverage": 10
         },
         {
           "coin": "kPEPE",
           "side": "short",
-          "notional": 174034.08,
+          "notional": 173139.88,
           "entry_px": 0.004668,
-          "unrealized_pnl": -91.880281,
+          "unrealized_pnl": 802.321823,
           "leverage": 10
         },
         {
           "coin": "CASHCAT",
           "side": "short",
-          "notional": 163704.82,
+          "notional": 159615.73,
           "entry_px": 0.204881,
-          "unrealized_pnl": 125983.339463,
+          "unrealized_pnl": 130072.425023,
           "leverage": 3
         },
         {
           "coin": "VIRTUAL",
           "side": "short",
-          "notional": 157031.82,
+          "notional": 155397.04,
           "entry_px": 0.65275,
-          "unrealized_pnl": -10047.010676,
+          "unrealized_pnl": -8412.224204,
           "leverage": 5
         },
         {
           "coin": "ZRO",
           "side": "short",
-          "notional": 146508.12,
+          "notional": 141227.63,
           "entry_px": 2.03929,
-          "unrealized_pnl": 1004.894944,
+          "unrealized_pnl": 6285.379144,
           "leverage": 5
-        },
-        {
-          "coin": "CC",
-          "side": "short",
-          "notional": 137064.22,
-          "entry_px": 0.111339,
-          "unrealized_pnl": -3771.553801,
-          "leverage": 3
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 136453.77,
+          "notional": 136187.66,
           "entry_px": 746.783,
-          "unrealized_pnl": -342.026559,
+          "unrealized_pnl": -75.921119,
           "leverage": 10
+        },
+        {
+          "coin": "CC",
+          "side": "short",
+          "notional": 134957.2,
+          "entry_px": 0.111339,
+          "unrealized_pnl": -1664.531081,
+          "leverage": 3
         },
         {
           "coin": "TIA",
           "side": "short",
-          "notional": 127772.49,
+          "notional": 124218.16,
           "entry_px": 0.62622,
-          "unrealized_pnl": 1259.836901,
+          "unrealized_pnl": 4814.166626,
           "leverage": 5
         },
         {
           "coin": "ALGO",
           "side": "short",
-          "notional": 103810.99,
+          "notional": 102588.51,
           "entry_px": 0.107706,
-          "unrealized_pnl": -6278.262602,
+          "unrealized_pnl": -5055.784952,
           "leverage": 5
         },
         {
           "coin": "PONS",
           "side": "short",
-          "notional": 95249.83,
+          "notional": 94162.63,
           "entry_px": 0.439191,
-          "unrealized_pnl": 49006.528298,
+          "unrealized_pnl": 50093.727588,
           "leverage": 3
         },
         {
           "coin": "RENDER",
           "side": "short",
-          "notional": 88230.73,
+          "notional": 87573.12,
           "entry_px": 1.81574,
-          "unrealized_pnl": -4866.284874,
+          "unrealized_pnl": -4343.214013,
           "leverage": 5
         },
         {
           "coin": "CFX",
           "side": "short",
-          "notional": 80461.67,
+          "notional": 79468.0,
           "entry_px": 0.054945,
-          "unrealized_pnl": -1103.727537,
+          "unrealized_pnl": -110.052577,
           "leverage": 5
         },
         {
           "coin": "LDO",
           "side": "short",
-          "notional": 73952.37,
+          "notional": 72825.53,
           "entry_px": 0.38275,
-          "unrealized_pnl": -5163.534828,
+          "unrealized_pnl": -4036.699833,
           "leverage": 5
         },
         {
           "coin": "PYTH",
           "side": "short",
-          "notional": 72240.61,
+          "notional": 71409.17,
           "entry_px": 0.078095,
-          "unrealized_pnl": -1432.179898,
+          "unrealized_pnl": -600.744251,
           "leverage": 5
         },
         {
           "coin": "FIL",
           "side": "short",
-          "notional": 68633.05,
+          "notional": 67692.0,
           "entry_px": 1.0417,
-          "unrealized_pnl": -1946.021645,
-          "leverage": 5
-        },
-        {
-          "coin": "ENS",
-          "side": "short",
-          "notional": 66481.98,
-          "entry_px": 5.6141,
-          "unrealized_pnl": -2374.68351,
+          "unrealized_pnl": -1004.965865,
           "leverage": 5
         },
         {
           "coin": "COMP",
           "side": "short",
-          "notional": 65992.19,
-          "entry_px": 20.185,
-          "unrealized_pnl": -14741.46066,
+          "notional": 66236.5,
+          "entry_px": 20.272,
+          "unrealized_pnl": -13964.173144,
+          "leverage": 5
+        },
+        {
+          "coin": "ENS",
+          "side": "short",
+          "notional": 65896.19,
+          "entry_px": 5.6141,
+          "unrealized_pnl": -1788.89394,
           "leverage": 5
         },
         {
           "coin": "GRAM",
           "side": "short",
-          "notional": 65303.59,
+          "notional": 65795.46,
           "entry_px": 1.519503,
-          "unrealized_pnl": 7971.453424,
+          "unrealized_pnl": 7479.578824,
           "leverage": 5
         },
         {
           "coin": "IMX",
           "side": "short",
-          "notional": 63939.59,
+          "notional": 63193.48,
           "entry_px": 0.1664,
-          "unrealized_pnl": 3171.011605,
+          "unrealized_pnl": 3917.121415,
           "leverage": 5
         },
         {
           "coin": "OP",
           "side": "short",
-          "notional": 60815.77,
+          "notional": 59432.23,
           "entry_px": 0.12547,
-          "unrealized_pnl": -2949.995148,
+          "unrealized_pnl": -1566.456048,
           "leverage": 5
         },
         {
           "coin": "XLM",
           "side": "short",
-          "notional": 56600.87,
+          "notional": 56179.8,
           "entry_px": 0.172927,
-          "unrealized_pnl": -3836.134936,
+          "unrealized_pnl": -3415.061056,
           "leverage": 5
         },
         {
           "coin": "kBONK",
           "side": "short",
-          "notional": 54208.23,
+          "notional": 54275.54,
           "entry_px": 0.003398,
-          "unrealized_pnl": 2991.390007,
+          "unrealized_pnl": 2924.071503,
           "leverage": 10
         },
         {
           "coin": "ALT",
           "side": "long",
-          "notional": 51435.9,
+          "notional": 53117.68,
           "entry_px": 0.006297,
-          "unrealized_pnl": 25977.840193,
-          "leverage": 3
-        },
-        {
-          "coin": "GRASS",
-          "side": "short",
-          "notional": 49899.29,
-          "entry_px": 0.57815,
-          "unrealized_pnl": -9325.321694,
+          "unrealized_pnl": 27659.623777,
           "leverage": 3
         },
         {
           "coin": "STX",
           "side": "short",
-          "notional": 49472.96,
-          "entry_px": 0.40303,
-          "unrealized_pnl": 4082.109661,
+          "notional": 52100.92,
+          "entry_px": 0.40084,
+          "unrealized_pnl": 5020.645528,
           "leverage": 5
+        },
+        {
+          "coin": "GRASS",
+          "side": "short",
+          "notional": 48408.72,
+          "entry_px": 0.57815,
+          "unrealized_pnl": -7834.743098,
+          "leverage": 3
         },
         {
           "coin": "JTO",
           "side": "short",
-          "notional": 41313.52,
+          "notional": 40705.25,
           "entry_px": 0.523283,
-          "unrealized_pnl": 3203.287374,
+          "unrealized_pnl": 3811.552174,
           "leverage": 5
         },
         {
           "coin": "SPX",
           "side": "short",
-          "notional": 39864.32,
+          "notional": 38934.91,
           "entry_px": 0.44877,
-          "unrealized_pnl": 5919.62836,
+          "unrealized_pnl": 6849.03056,
           "leverage": 5
         },
         {
           "coin": "JUP",
           "side": "short",
-          "notional": 39570.83,
+          "notional": 38847.58,
           "entry_px": 0.300074,
-          "unrealized_pnl": -3933.952972,
+          "unrealized_pnl": -3210.704572,
           "leverage": 10
+        },
+        {
+          "coin": "LIT",
+          "side": "long",
+          "notional": 37181.13,
+          "entry_px": 3.790434,
+          "unrealized_pnl": 523.832312,
+          "leverage": 5
         },
         {
           "coin": "APEX",
           "side": "short",
-          "notional": 34832.05,
+          "notional": 34422.37,
           "entry_px": 0.272707,
-          "unrealized_pnl": 4507.630302,
+          "unrealized_pnl": 4917.317342,
           "leverage": 3
         },
         {
           "coin": "PENDLE",
           "side": "short",
-          "notional": 34027.96,
+          "notional": 33792.74,
           "entry_px": 2.28796,
-          "unrealized_pnl": 1611.609555,
+          "unrealized_pnl": 1846.822255,
           "leverage": 5
-        },
-        {
-          "coin": "ADA",
-          "side": "long",
-          "notional": 28806.08,
-          "entry_px": 0.222592,
-          "unrealized_pnl": 716.50508,
-          "leverage": 10
         },
         {
           "coin": "APT",
           "side": "short",
-          "notional": 26285.59,
+          "notional": 26069.88,
           "entry_px": 0.8337,
-          "unrealized_pnl": 163.452024,
+          "unrealized_pnl": 379.167744,
           "leverage": 10
         },
         {
           "coin": "ZK",
           "side": "short",
-          "notional": 25175.94,
+          "notional": 24622.56,
           "entry_px": 0.015773,
-          "unrealized_pnl": 1195.079873,
+          "unrealized_pnl": 1748.452293,
           "leverage": 5
         },
         {
           "coin": "ASTER",
           "side": "short",
-          "notional": 24322.14,
+          "notional": 24339.1,
           "entry_px": 0.675655,
-          "unrealized_pnl": -1407.285903,
+          "unrealized_pnl": -1424.243403,
           "leverage": 5
+        },
+        {
+          "coin": "ADA",
+          "side": "long",
+          "notional": 22807.3,
+          "entry_px": 0.222592,
+          "unrealized_pnl": 335.956579,
+          "leverage": 10
         },
         {
           "coin": "MEGA",
           "side": "short",
-          "notional": 19342.01,
+          "notional": 19295.42,
           "entry_px": 0.041481,
-          "unrealized_pnl": -1928.847223,
-          "leverage": 3
-        },
-        {
-          "coin": "XAI",
-          "side": "long",
-          "notional": 18876.31,
-          "entry_px": 0.00717,
-          "unrealized_pnl": 2957.116226,
-          "leverage": 3
-        },
-        {
-          "coin": "0G",
-          "side": "short",
-          "notional": 18747.45,
-          "entry_px": 0.26296,
-          "unrealized_pnl": 1585.951615,
+          "unrealized_pnl": -1882.251088,
           "leverage": 3
         },
         {
           "coin": "INJ",
           "side": "short",
-          "notional": 18667.39,
+          "notional": 18896.22,
           "entry_px": 8.44943,
-          "unrealized_pnl": -164.805907,
+          "unrealized_pnl": -393.640007,
           "leverage": 5
+        },
+        {
+          "coin": "XAI",
+          "side": "long",
+          "notional": 18743.22,
+          "entry_px": 0.00717,
+          "unrealized_pnl": 2824.028246,
+          "leverage": 3
+        },
+        {
+          "coin": "0G",
+          "side": "short",
+          "notional": 18591.25,
+          "entry_px": 0.26296,
+          "unrealized_pnl": 1742.148115,
+          "leverage": 3
         },
         {
           "coin": "AR",
           "side": "short",
-          "notional": 16678.44,
+          "notional": 16177.89,
           "entry_px": 3.8759,
-          "unrealized_pnl": -375.09003,
-          "leverage": 5
-        },
-        {
-          "coin": "LIT",
-          "side": "short",
-          "notional": 14364.24,
-          "entry_px": 3.810889,
-          "unrealized_pnl": -439.250735,
+          "unrealized_pnl": 125.46086,
           "leverage": 5
         },
         {
           "coin": "EIGEN",
           "side": "short",
-          "notional": 14309.05,
+          "notional": 14291.54,
           "entry_px": 0.2367,
-          "unrealized_pnl": -490.210619,
+          "unrealized_pnl": -472.696481,
           "leverage": 5
         },
         {
           "coin": "MORPHO",
           "side": "short",
-          "notional": 14245.8,
+          "notional": 14102.89,
           "entry_px": 2.46365,
-          "unrealized_pnl": 485.872736,
+          "unrealized_pnl": 628.785176,
           "leverage": 5
         },
         {
           "coin": "AVNT",
           "side": "long",
-          "notional": 12567.65,
+          "notional": 12364.13,
           "entry_px": 0.088471,
-          "unrealized_pnl": 3238.208237,
+          "unrealized_pnl": 3034.687807,
           "leverage": 5
         },
         {
           "coin": "ICP",
           "side": "short",
-          "notional": 12079.11,
+          "notional": 11917.19,
           "entry_px": 2.99518,
-          "unrealized_pnl": 230.481268,
+          "unrealized_pnl": 392.407388,
           "leverage": 5
         },
         {
           "coin": "ZETA",
           "side": "long",
-          "notional": 11035.31,
+          "notional": 10900.46,
           "entry_px": 0.03459,
-          "unrealized_pnl": 2232.220332,
+          "unrealized_pnl": 2097.364058,
           "leverage": 3
         },
         {
           "coin": "CHIP",
           "side": "short",
-          "notional": 10672.59,
+          "notional": 10237.86,
           "entry_px": 0.052708,
-          "unrealized_pnl": 587.278186,
+          "unrealized_pnl": 1022.009131,
           "leverage": 3
         },
         {
           "coin": "RUNE",
           "side": "short",
-          "notional": 9569.98,
+          "notional": 9570.12,
           "entry_px": 0.45686,
-          "unrealized_pnl": -3194.128621,
+          "unrealized_pnl": -3194.268178,
           "leverage": 5
         },
         {
           "coin": "AVAX",
           "side": "short",
-          "notional": 9521.07,
+          "notional": 9374.79,
           "entry_px": 10.7544,
-          "unrealized_pnl": 890.527449,
+          "unrealized_pnl": 1036.810381,
           "leverage": 10
         },
         {
           "coin": "S",
           "side": "long",
-          "notional": 9216.54,
+          "notional": 9048.01,
           "entry_px": 0.027794,
-          "unrealized_pnl": 4712.535444,
+          "unrealized_pnl": 4544.004484,
           "leverage": 5
         },
         {
           "coin": "KAITO",
           "side": "short",
-          "notional": 9096.42,
+          "notional": 9006.46,
           "entry_px": 0.295435,
-          "unrealized_pnl": 361.941,
+          "unrealized_pnl": 451.90315,
           "leverage": 5
         },
         {
           "coin": "XMR",
           "side": "short",
-          "notional": 8636.31,
+          "notional": 8816.16,
           "entry_px": 522.741,
-          "unrealized_pnl": -1291.26349,
+          "unrealized_pnl": -1471.11629,
           "leverage": 5
         },
         {
           "coin": "MET",
           "side": "long",
-          "notional": 8101.19,
+          "notional": 8071.67,
           "entry_px": 0.358974,
-          "unrealized_pnl": 10.25897,
+          "unrealized_pnl": -19.26712,
           "leverage": 3
         },
         {
           "coin": "SYRUP",
           "side": "short",
-          "notional": 6994.27,
+          "notional": 6915.29,
           "entry_px": 0.22029,
-          "unrealized_pnl": 504.847242,
+          "unrealized_pnl": 583.824682,
           "leverage": 3
         },
         {
           "coin": "BIO",
           "side": "short",
-          "notional": 6800.78,
+          "notional": 6731.43,
           "entry_px": 0.025486,
-          "unrealized_pnl": -3.079827,
+          "unrealized_pnl": 66.266853,
           "leverage": 3
         },
         {
@@ -3831,457 +3831,457 @@
         {
           "coin": "GALA",
           "side": "short",
-          "notional": 6487.26,
+          "notional": 6434.65,
           "entry_px": 0.001985,
-          "unrealized_pnl": 39.597839,
+          "unrealized_pnl": 92.206127,
           "leverage": 3
         },
         {
           "coin": "CAKE",
           "side": "short",
-          "notional": 6409.79,
+          "notional": 6406.45,
           "entry_px": 2.20428,
-          "unrealized_pnl": -121.858415,
+          "unrealized_pnl": -118.520873,
           "leverage": 3
         },
         {
           "coin": "NIL",
           "side": "short",
-          "notional": 6170.89,
+          "notional": 6140.43,
           "entry_px": 0.088051,
-          "unrealized_pnl": 216.300732,
+          "unrealized_pnl": 246.767112,
           "leverage": 3
         },
         {
           "coin": "WIF",
           "side": "short",
-          "notional": 6087.59,
+          "notional": 6068.52,
           "entry_px": 0.206901,
-          "unrealized_pnl": -144.543256,
+          "unrealized_pnl": -125.47052,
           "leverage": 5
         },
         {
           "coin": "APE",
           "side": "short",
-          "notional": 5290.11,
+          "notional": 5240.03,
           "entry_px": 0.14449,
-          "unrealized_pnl": -157.265387,
+          "unrealized_pnl": -107.177675,
           "leverage": 5
         },
         {
           "coin": "SAND",
           "side": "short",
-          "notional": 4992.49,
+          "notional": 4920.94,
           "entry_px": 0.057752,
-          "unrealized_pnl": -84.688026,
+          "unrealized_pnl": -13.134866,
           "leverage": 5
         },
         {
           "coin": "W",
           "side": "short",
-          "notional": 4511.85,
+          "notional": 4363.28,
           "entry_px": 0.02742,
-          "unrealized_pnl": 3802.978264,
+          "unrealized_pnl": 3951.554006,
           "leverage": 5
         },
         {
           "coin": "USELESS",
           "side": "short",
-          "notional": 4071.68,
+          "notional": 4043.88,
           "entry_px": 0.279723,
-          "unrealized_pnl": 2632.720778,
-          "leverage": 3
-        },
-        {
-          "coin": "MERL",
-          "side": "short",
-          "notional": 3300.48,
-          "entry_px": 0.028234,
-          "unrealized_pnl": 89.368789,
+          "unrealized_pnl": 2660.523658,
           "leverage": 3
         },
         {
           "coin": "DYDX",
           "side": "short",
-          "notional": 3252.16,
+          "notional": 3217.86,
           "entry_px": 0.14215,
-          "unrealized_pnl": 527.64436,
+          "unrealized_pnl": 561.944815,
           "leverage": 5
+        },
+        {
+          "coin": "MERL",
+          "side": "short",
+          "notional": 3215.95,
+          "entry_px": 0.028234,
+          "unrealized_pnl": 173.891733,
+          "leverage": 3
         },
         {
           "coin": "REZ",
           "side": "short",
-          "notional": 2723.58,
+          "notional": 2698.95,
           "entry_px": 0.004235,
-          "unrealized_pnl": 257.453908,
+          "unrealized_pnl": 282.085753,
           "leverage": 3
         },
         {
           "coin": "ATOM",
           "side": "short",
-          "notional": 2147.09,
+          "notional": 2142.09,
           "entry_px": 1.5245,
-          "unrealized_pnl": -287.676428,
+          "unrealized_pnl": -282.675822,
           "leverage": 5
-        },
-        {
-          "coin": "FARTCOIN",
-          "side": "short",
-          "notional": 2074.3,
-          "entry_px": 0.14511,
-          "unrealized_pnl": -148.217743,
-          "leverage": 10
         },
         {
           "coin": "MNT",
           "side": "short",
-          "notional": 1888.9,
+          "notional": 1875.96,
           "entry_px": 0.63633,
-          "unrealized_pnl": 255.306603,
+          "unrealized_pnl": 268.245867,
           "leverage": 5
         },
         {
           "coin": "BOME",
           "side": "short",
-          "notional": 1845.75,
+          "notional": 1825.69,
           "entry_px": 0.000988,
-          "unrealized_pnl": 987.935073,
+          "unrealized_pnl": 1007.997626,
           "leverage": 3
+        },
+        {
+          "coin": "FARTCOIN",
+          "side": "short",
+          "notional": 1804.39,
+          "entry_px": 0.14511,
+          "unrealized_pnl": -118.901141,
+          "leverage": 10
         },
         {
           "coin": "PROVE",
           "side": "short",
-          "notional": 1490.38,
+          "notional": 1477.47,
           "entry_px": 0.250462,
-          "unrealized_pnl": 457.466091,
+          "unrealized_pnl": 470.375911,
           "leverage": 3
         },
         {
           "coin": "LINEA",
           "side": "short",
-          "notional": 995.4,
+          "notional": 981.96,
           "entry_px": 0.002757,
-          "unrealized_pnl": -20.262648,
+          "unrealized_pnl": -6.82562,
           "leverage": 3
         },
         {
           "coin": "SKY",
           "side": "short",
-          "notional": 933.89,
+          "notional": 927.75,
           "entry_px": 0.079154,
-          "unrealized_pnl": 36.785239,
+          "unrealized_pnl": 42.929002,
           "leverage": 3
         },
         {
           "coin": "AZTEC",
           "side": "short",
-          "notional": 890.24,
+          "notional": 880.97,
           "entry_px": 0.01869,
-          "unrealized_pnl": -28.592187,
+          "unrealized_pnl": -19.326087,
           "leverage": 3
         },
         {
           "coin": "KAS",
           "side": "short",
-          "notional": 861.87,
+          "notional": 860.66,
           "entry_px": 0.02785,
-          "unrealized_pnl": -245.539391,
+          "unrealized_pnl": -244.322241,
           "leverage": 3
         },
         {
           "coin": "DASH",
           "side": "short",
-          "notional": 846.11,
+          "notional": 836.39,
           "entry_px": 49.7361,
-          "unrealized_pnl": -43.366134,
+          "unrealized_pnl": -33.649854,
           "leverage": 5
         },
         {
           "coin": "GMX",
           "side": "short",
-          "notional": 813.65,
+          "notional": 813.75,
           "entry_px": 7.666,
-          "unrealized_pnl": -71.58347,
+          "unrealized_pnl": -71.68027,
           "leverage": 3
         },
         {
           "coin": "AXS",
           "side": "short",
-          "notional": 725.93,
+          "notional": 720.89,
           "entry_px": 1.22218,
-          "unrealized_pnl": 105.894464,
+          "unrealized_pnl": 110.930904,
           "leverage": 5
         },
         {
           "coin": "SUPER",
           "side": "short",
-          "notional": 604.46,
+          "notional": 594.22,
           "entry_px": 0.227859,
-          "unrealized_pnl": 50.181952,
-          "leverage": 3
-        },
-        {
-          "coin": "ANIME",
-          "side": "long",
-          "notional": 592.82,
-          "entry_px": 0.002635,
-          "unrealized_pnl": 52.450701,
+          "unrealized_pnl": 60.418451,
           "leverage": 3
         },
         {
           "coin": "ZORA",
           "side": "short",
-          "notional": 493.59,
+          "notional": 487.58,
           "entry_px": 0.008275,
-          "unrealized_pnl": 105.626535,
+          "unrealized_pnl": 111.636233,
           "leverage": 3
         },
         {
           "coin": "RSR",
           "side": "short",
-          "notional": 452.25,
+          "notional": 447.78,
           "entry_px": 0.002024,
-          "unrealized_pnl": 23.757897,
+          "unrealized_pnl": 28.226298,
           "leverage": 3
         },
         {
           "coin": "TRX",
           "side": "long",
-          "notional": 318.07,
+          "notional": 317.2,
           "entry_px": 0.331514,
-          "unrealized_pnl": 0.14926,
+          "unrealized_pnl": -0.721512,
           "leverage": 10
         },
         {
           "coin": "SKR",
           "side": "long",
-          "notional": 316.49,
+          "notional": 312.84,
           "entry_px": 0.017527,
-          "unrealized_pnl": -35.81681,
+          "unrealized_pnl": -39.47501,
           "leverage": 3
         },
         {
           "coin": "SOPH",
           "side": "short",
-          "notional": 218.97,
+          "notional": 211.46,
           "entry_px": 0.001805,
-          "unrealized_pnl": 18.917951,
+          "unrealized_pnl": 26.427872,
           "leverage": 3
         },
         {
           "coin": "MOVE",
           "side": "long",
-          "notional": 188.87,
+          "notional": 185.74,
           "entry_px": 0.00788,
-          "unrealized_pnl": -6.57253,
+          "unrealized_pnl": -9.697582,
           "leverage": 3
         },
         {
           "coin": "TRUMP",
           "side": "long",
-          "notional": 174.05,
+          "notional": 170.89,
           "entry_px": 1.77528,
-          "unrealized_pnl": 8.77157,
+          "unrealized_pnl": 5.60617,
           "leverage": 10
         },
         {
           "coin": "TRB",
           "side": "long",
-          "notional": 109.59,
+          "notional": 108.66,
           "entry_px": 18.9766,
-          "unrealized_pnl": -2.375882,
+          "unrealized_pnl": -3.302182,
           "leverage": 3
         },
         {
           "coin": "HEMI",
           "side": "long",
-          "notional": 65.82,
+          "notional": 65.66,
           "entry_px": 0.006074,
-          "unrealized_pnl": -11.253034,
+          "unrealized_pnl": -11.417965,
           "leverage": 3
         },
         {
           "coin": "BANANA",
           "side": "short",
-          "notional": 61.51,
+          "notional": 61.21,
           "entry_px": 3.51052,
-          "unrealized_pnl": -1.82818,
+          "unrealized_pnl": -1.52966,
           "leverage": 3
         },
         {
           "coin": "BLUR",
           "side": "long",
-          "notional": 54.98,
+          "notional": 53.69,
           "entry_px": 0.012178,
-          "unrealized_pnl": -16.43965,
+          "unrealized_pnl": -17.72995,
           "leverage": 3
         },
         {
           "coin": "PNUT",
           "side": "short",
-          "notional": 50.9,
+          "notional": 50.46,
           "entry_px": 0.05274,
-          "unrealized_pnl": 7.64175,
+          "unrealized_pnl": 8.08575,
           "leverage": 3
         },
         {
           "coin": "STBL",
           "side": "short",
-          "notional": 39.57,
+          "notional": 39.53,
           "entry_px": 0.025073,
-          "unrealized_pnl": -1.780386,
+          "unrealized_pnl": -1.747232,
           "leverage": 3
         },
         {
           "coin": "IO",
           "side": "long",
-          "notional": 37.17,
+          "notional": 36.8,
           "entry_px": 0.16597,
-          "unrealized_pnl": 0.072327,
+          "unrealized_pnl": -0.298683,
           "leverage": 3
         },
         {
           "coin": "MELANIA",
           "side": "short",
-          "notional": 25.95,
+          "notional": 25.77,
           "entry_px": 0.10384,
-          "unrealized_pnl": 4.877887,
+          "unrealized_pnl": 5.064934,
           "leverage": 3
         },
         {
           "coin": "ETC",
           "side": "short",
-          "notional": 17.09,
+          "notional": 16.99,
           "entry_px": 7.8128,
-          "unrealized_pnl": -0.680145,
+          "unrealized_pnl": -0.585645,
           "leverage": 5
         },
         {
           "coin": "POPCAT",
           "side": "long",
-          "notional": 15.22,
+          "notional": 15.15,
           "entry_px": 0.056188,
-          "unrealized_pnl": -2.708629,
+          "unrealized_pnl": -2.771153,
           "leverage": 3
         },
         {
           "coin": "MINA",
           "side": "short",
-          "notional": 13.89,
+          "notional": 13.63,
           "entry_px": 0.071634,
-          "unrealized_pnl": -0.708952,
+          "unrealized_pnl": -0.445096,
           "leverage": 3
         },
         {
           "coin": "LAYER",
           "side": "short",
-          "notional": 13.7,
+          "notional": 13.6,
           "entry_px": 0.064401,
-          "unrealized_pnl": -0.755358,
+          "unrealized_pnl": -0.65727,
           "leverage": 3
         },
         {
           "coin": "BABY",
           "side": "short",
-          "notional": 11.75,
+          "notional": 11.47,
           "entry_px": 0.011334,
-          "unrealized_pnl": -1.957565,
+          "unrealized_pnl": -1.672445,
           "leverage": 3
         },
         {
           "coin": "PEOPLE",
           "side": "short",
-          "notional": 9.0,
+          "notional": 8.88,
           "entry_px": 0.008175,
-          "unrealized_pnl": -0.591983,
+          "unrealized_pnl": -0.475819,
           "leverage": 3
         },
         {
           "coin": "BSV",
           "side": "long",
-          "notional": 6.38,
+          "notional": 6.36,
           "entry_px": 17.181,
-          "unrealized_pnl": 0.54264,
+          "unrealized_pnl": 0.52122,
+          "leverage": 3
+        },
+        {
+          "coin": "ANIME",
+          "side": "short",
+          "notional": 5.6,
+          "entry_px": 0.002895,
+          "unrealized_pnl": 0.0488,
           "leverage": 3
         },
         {
           "coin": "SEI",
           "side": "short",
-          "notional": 5.49,
+          "notional": 5.44,
           "entry_px": 0.053456,
-          "unrealized_pnl": -0.837799,
+          "unrealized_pnl": -0.785599,
           "leverage": 5
         },
         {
           "coin": "RESOLV",
           "side": "long",
-          "notional": 4.98,
+          "notional": 4.95,
           "entry_px": 0.02201,
-          "unrealized_pnl": -1.246332,
+          "unrealized_pnl": -1.278311,
           "leverage": 3
         },
         {
           "coin": "NXPC",
           "side": "long",
-          "notional": 4.94,
+          "notional": 4.9,
           "entry_px": 0.15889,
-          "unrealized_pnl": 0.33495,
+          "unrealized_pnl": 0.29,
           "leverage": 3
         },
         {
           "coin": "ACE",
           "side": "short",
-          "notional": 3.83,
+          "notional": 3.78,
           "entry_px": 0.1888,
-          "unrealized_pnl": 0.706413,
+          "unrealized_pnl": 0.759257,
+          "leverage": 3
+        },
+        {
+          "coin": "ME",
+          "side": "long",
+          "notional": 1.91,
+          "entry_px": 0.05934,
+          "unrealized_pnl": 0.1251,
           "leverage": 3
         },
         {
           "coin": "PENGU",
           "side": "short",
-          "notional": 1.93,
+          "notional": 1.9,
           "entry_px": 0.008162,
-          "unrealized_pnl": -0.025863,
+          "unrealized_pnl": 0.002796,
           "leverage": 5
-        },
-        {
-          "coin": "ME",
-          "side": "long",
-          "notional": 1.92,
-          "entry_px": 0.05934,
-          "unrealized_pnl": 0.1404,
-          "leverage": 3
         },
         {
           "coin": "HYPER",
           "side": "long",
-          "notional": 1.91,
+          "notional": 1.89,
           "entry_px": 0.071477,
-          "unrealized_pnl": -0.239038,
+          "unrealized_pnl": -0.253768,
           "leverage": 3
         },
         {
           "coin": "WLFI",
           "side": "short",
-          "notional": 1.85,
+          "notional": 1.87,
           "entry_px": 0.056928,
-          "unrealized_pnl": 0.033292,
+          "unrealized_pnl": 0.011875,
           "leverage": 5
         },
         {
           "coin": "BRETT",
           "side": "long",
-          "notional": 1.84,
+          "notional": 1.83,
           "entry_px": 0.005615,
-          "unrealized_pnl": -0.182305,
+          "unrealized_pnl": -0.193135,
           "leverage": 3
         },
         {
           "coin": "ORDI",
           "side": "long",
-          "notional": 1.74,
+          "notional": 1.73,
           "entry_px": 4.349,
-          "unrealized_pnl": -0.168828,
+          "unrealized_pnl": -0.180224,
           "leverage": 3
         },
         {
@@ -4289,7 +4289,7 @@
           "side": "long",
           "notional": 0.48,
           "entry_px": 0.05978,
-          "unrealized_pnl": -0.1157,
+          "unrealized_pnl": -0.12088,
           "leverage": 3
         },
         {
@@ -4297,7 +4297,7 @@
           "side": "short",
           "notional": 0.24,
           "entry_px": 0.018678,
-          "unrealized_pnl": 0.055275,
+          "unrealized_pnl": 0.058027,
           "leverage": 3
         },
         {
@@ -4305,7 +4305,7 @@
           "side": "short",
           "notional": 0.16,
           "entry_px": 0.019567,
-          "unrealized_pnl": -0.004658,
+          "unrealized_pnl": -0.002706,
           "leverage": 3
         },
         {
@@ -4313,7 +4313,7 @@
           "side": "short",
           "notional": 0.04,
           "entry_px": 0.039557,
-          "unrealized_pnl": 0.004041,
+          "unrealized_pnl": 0.00415,
           "leverage": 3
         },
         {
@@ -4321,7 +4321,7 @@
           "side": "short",
           "notional": 0.03,
           "entry_px": 0.040846,
-          "unrealized_pnl": 0.008754,
+          "unrealized_pnl": 0.009046,
           "leverage": 3
         },
         {
@@ -4329,699 +4329,699 @@
           "side": "long",
           "notional": 0.0,
           "entry_px": 0.01672,
-          "unrealized_pnl": 0.00071,
+          "unrealized_pnl": 0.000582,
           "leverage": 3
         }
       ],
-      "total_notional": 105118845.43
+      "total_notional": 104547993.8
     },
     {
       "address": "0xfc667adba8d4837586078f4fdcdc29804337ca06",
       "display_name": null,
-      "account_value": 40540480.166198,
+      "account_value": 43579759.759733,
       "positions": [
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 13100207.84,
-          "entry_px": 2447.37,
-          "unrealized_pnl": -239571.221035,
+          "notional": 13440489.31,
+          "entry_px": 2448.83,
+          "unrealized_pnl": -158750.853389,
           "leverage": 20
         },
         {
           "coin": "ZEC",
           "side": "short",
-          "notional": 10278870.35,
-          "entry_px": 1237.6267,
-          "unrealized_pnl": -898686.70023,
+          "notional": 9819384.83,
+          "entry_px": 1237.9229,
+          "unrealized_pnl": -725615.425401,
           "leverage": 10
         },
         {
           "coin": "NEAR",
           "side": "short",
-          "notional": 8305559.65,
-          "entry_px": 5.15658,
-          "unrealized_pnl": -237073.218967,
+          "notional": 7241780.4,
+          "entry_px": 5.15861,
+          "unrealized_pnl": -157624.143107,
           "leverage": 10
-        },
-        {
-          "coin": "HYPE",
-          "side": "short",
-          "notional": 6165512.99,
-          "entry_px": 80.9064,
-          "unrealized_pnl": -67869.818241,
-          "leverage": 5
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 5286608.64,
-          "entry_px": 107.2796,
-          "unrealized_pnl": -43512.488031,
+          "notional": 5618751.02,
+          "entry_px": 107.3122,
+          "unrealized_pnl": 12186.035869,
+          "leverage": 20
+        },
+        {
+          "coin": "HYPE",
+          "side": "short",
+          "notional": 3537104.93,
+          "entry_px": 80.9104,
+          "unrealized_pnl": 1814.545029,
+          "leverage": 5
+        },
+        {
+          "coin": "BTC",
+          "side": "long",
+          "notional": 3245810.97,
+          "entry_px": 84571.0,
+          "unrealized_pnl": -10745.33716,
           "leverage": 20
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 3154404.4,
+          "notional": 3096923.07,
           "entry_px": 1.319724,
-          "unrealized_pnl": -157539.935812,
-          "leverage": 20
-        },
-        {
-          "coin": "BTC",
-          "side": "long",
-          "notional": 1505409.39,
-          "entry_px": 84611.7,
-          "unrealized_pnl": -1633.84722,
+          "unrealized_pnl": -107976.957961,
           "leverage": 20
         },
         {
           "coin": "PAXG",
           "side": "long",
-          "notional": 356337.42,
+          "notional": 355768.81,
           "entry_px": 4091.681,
-          "unrealized_pnl": 3826.772149,
+          "unrealized_pnl": 3258.162349,
           "leverage": 5
         }
       ],
-      "total_notional": 48152910.68
+      "total_notional": 46356013.34
     },
     {
       "address": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
       "display_name": null,
-      "account_value": 5830400.220425,
+      "account_value": 5751617.724194,
       "positions": [
         {
           "coin": "NEAR",
           "side": "long",
-          "notional": 30556118.52,
+          "notional": 30356367.71,
           "entry_px": 2.35301,
-          "unrealized_pnl": 17010956.504153,
+          "unrealized_pnl": 16811205.686963,
           "leverage": 10
         },
         {
           "coin": "SOL",
           "side": "short",
-          "notional": 2204943.77,
+          "notional": 2182725.14,
           "entry_px": 102.9403,
-          "unrealized_pnl": -106601.8789,
+          "unrealized_pnl": -84383.2535,
           "leverage": 10
         },
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 2126117.5,
+          "notional": 2120382.12,
           "entry_px": 79550.5,
-          "unrealized_pnl": -125006.94504,
+          "unrealized_pnl": -119271.55944,
           "leverage": 15
         },
         {
           "coin": "ADA",
           "side": "short",
-          "notional": 2075308.94,
+          "notional": 2053944.0,
           "entry_px": 0.218995,
-          "unrealized_pnl": -84319.14497,
+          "unrealized_pnl": -62954.19987,
           "leverage": 10
         },
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 1993857.21,
+          "notional": 1981964.31,
           "entry_px": 2494.83,
-          "unrealized_pnl": 1488.814307,
+          "unrealized_pnl": 13381.71986,
           "leverage": 15
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 1981088.37,
+          "notional": 1977224.95,
           "entry_px": 752.734,
-          "unrealized_pnl": 10782.21347,
+          "unrealized_pnl": 14645.63481,
           "leverage": 10
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 1963445.62,
+          "notional": 1932773.41,
           "entry_px": 1.414161,
-          "unrealized_pnl": 35423.0277,
+          "unrealized_pnl": 66095.2399,
           "leverage": 10
         },
         {
           "coin": "AVAX",
           "side": "short",
-          "notional": 1687303.24,
+          "notional": 1661379.31,
           "entry_px": 7.4346,
-          "unrealized_pnl": -411758.224037,
+          "unrealized_pnl": -385834.290171,
           "leverage": 10
         }
       ],
-      "total_notional": 44588183.17
+      "total_notional": 44266760.95
     },
     {
       "address": "0x8def9f50456c6c4e37fa5d3d57f108ed23992dae",
       "display_name": null,
-      "account_value": 3355724.95035,
+      "account_value": 3454054.60367,
       "positions": [
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 8565121.73,
+          "notional": 8466913.94,
           "entry_px": 64.7005,
-          "unrealized_pnl": -1791027.131682,
+          "unrealized_pnl": -1692819.347742,
           "leverage": 3
         }
       ],
-      "total_notional": 8565121.73
+      "total_notional": 8466913.94
     },
     {
       "address": "0x0b8aa35c28b7c6ab18f11dc168f437a8a69fd4f8",
       "display_name": null,
-      "account_value": 819106.756967,
+      "account_value": 913027.852398,
       "positions": [
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 8181109.04,
+          "notional": 8087304.34,
           "entry_px": 32.4618,
-          "unrealized_pnl": -4934764.93541,
+          "unrealized_pnl": -4840960.24541,
           "leverage": 10
         }
       ],
-      "total_notional": 8181109.04
+      "total_notional": 8087304.34
     },
     {
       "address": "0x856c35038594767646266bc7fd68dc26480e910d",
       "display_name": null,
-      "account_value": 245689.052259,
+      "account_value": 244166.718084,
       "positions": [
         {
           "coin": "BTC",
           "side": "short",
-          "notional": 395890.83,
+          "notional": 394822.89,
           "entry_px": 62946.4,
-          "unrealized_pnl": -101050.52163,
+          "unrealized_pnl": -99982.57191,
           "leverage": 20
         },
         {
           "coin": "FARTCOIN",
           "side": "short",
-          "notional": 345672.2,
-          "entry_px": 0.16066,
-          "unrealized_pnl": 9702.163908,
+          "notional": 343620.06,
+          "entry_px": 0.16065,
+          "unrealized_pnl": 11743.480228,
           "leverage": 5
         },
         {
           "coin": "BNB",
           "side": "short",
-          "notional": 221458.12,
+          "notional": 221026.24,
           "entry_px": 579.952,
-          "unrealized_pnl": -49904.6721,
+          "unrealized_pnl": -49472.79534,
           "leverage": 5
         },
         {
           "coin": "SOL",
           "side": "long",
-          "notional": 89527.98,
+          "notional": 88625.83,
           "entry_px": 80.9431,
-          "unrealized_pnl": 22534.58671,
+          "unrealized_pnl": 21632.43731,
           "leverage": 20
         },
         {
           "coin": "ETH",
           "side": "short",
-          "notional": 70696.64,
+          "notional": 70274.95,
           "entry_px": 1676.34,
-          "unrealized_pnl": -23158.180678,
+          "unrealized_pnl": -22736.49127,
           "leverage": 20
         },
         {
           "coin": "SUI",
           "side": "long",
-          "notional": 68259.79,
+          "notional": 67549.47,
           "entry_px": 1.05139,
-          "unrealized_pnl": -572.76144,
+          "unrealized_pnl": -1283.0849,
           "leverage": 10
         },
         {
           "coin": "LIT",
           "side": "long",
-          "notional": 62697.11,
+          "notional": 61317.53,
           "entry_px": 4.276217,
-          "unrealized_pnl": -5504.283116,
+          "unrealized_pnl": -6883.871616,
           "leverage": 3
         },
         {
           "coin": "ASTER",
           "side": "short",
-          "notional": 41187.36,
+          "notional": 41216.07,
           "entry_px": 0.687241,
-          "unrealized_pnl": -1717.713661,
+          "unrealized_pnl": -1746.429661,
           "leverage": 3
         },
         {
           "coin": "TAO",
           "side": "long",
-          "notional": 40550.25,
+          "notional": 40072.81,
           "entry_px": 244.396,
-          "unrealized_pnl": 4536.16422,
+          "unrealized_pnl": 4058.72106,
           "leverage": 5
         },
         {
           "coin": "HYPE",
           "side": "short",
-          "notional": 34623.18,
+          "notional": 34226.19,
           "entry_px": 82.4584,
-          "unrealized_pnl": 275.710049,
+          "unrealized_pnl": 672.699789,
           "leverage": 3
         },
         {
           "coin": "XPL",
           "side": "short",
-          "notional": 33898.19,
+          "notional": 33310.29,
           "entry_px": 0.093251,
-          "unrealized_pnl": 3857.854165,
+          "unrealized_pnl": 4445.747185,
           "leverage": 5
         },
         {
           "coin": "ZEC",
           "side": "long",
-          "notional": 31260.41,
+          "notional": 30810.94,
           "entry_px": 509.8619,
-          "unrealized_pnl": 19508.091977,
+          "unrealized_pnl": 19058.616977,
           "leverage": 5
         },
         {
           "coin": "PUMP",
           "side": "long",
-          "notional": 6829.52,
+          "notional": 6908.16,
           "entry_px": 0.002458,
-          "unrealized_pnl": 3496.607156,
+          "unrealized_pnl": 3575.247674,
           "leverage": 5
         },
         {
           "coin": "UNI",
           "side": "short",
-          "notional": 3433.55,
+          "notional": 3390.75,
           "entry_px": 7.52536,
-          "unrealized_pnl": -23.802808,
+          "unrealized_pnl": 18.992487,
           "leverage": 10
         },
         {
           "coin": "PAXG",
           "side": "long",
-          "notional": 1815.75,
+          "notional": 1812.85,
           "entry_px": 4071.524,
-          "unrealized_pnl": 28.3487,
+          "unrealized_pnl": 25.4513,
           "leverage": 5
         },
         {
           "coin": "ENA",
           "side": "short",
-          "notional": 1048.65,
+          "notional": 1028.54,
           "entry_px": 0.20873,
-          "unrealized_pnl": -44.44907,
+          "unrealized_pnl": -24.33909,
           "leverage": 10
         },
         {
           "coin": "TRUMP",
           "side": "short",
-          "notional": 498.97,
+          "notional": 489.89,
           "entry_px": 6.12499,
-          "unrealized_pnl": 1135.790345,
+          "unrealized_pnl": 1144.864945,
           "leverage": 3
         },
         {
           "coin": "MELANIA",
           "side": "short",
-          "notional": 476.57,
+          "notional": 473.14,
           "entry_px": 0.47508,
-          "unrealized_pnl": 2113.36452,
+          "unrealized_pnl": 2116.798965,
           "leverage": 3
         },
         {
           "coin": "XRP",
           "side": "short",
-          "notional": 413.95,
+          "notional": 407.49,
           "entry_px": 1.081744,
-          "unrealized_pnl": -91.59181,
+          "unrealized_pnl": -85.12521,
           "leverage": 10
         },
         {
           "coin": "BERA",
           "side": "long",
-          "notional": 381.82,
+          "notional": 369.94,
           "entry_px": 2.63242,
-          "unrealized_pnl": -5073.875025,
+          "unrealized_pnl": -5085.75045,
           "leverage": 5
         },
         {
           "coin": "APT",
           "side": "short",
-          "notional": 312.85,
+          "notional": 310.29,
           "entry_px": 5.6917,
-          "unrealized_pnl": 1836.173622,
+          "unrealized_pnl": 1838.741098,
           "leverage": 10
         },
         {
           "coin": "SPX",
           "side": "short",
-          "notional": 82.84,
+          "notional": 80.91,
           "entry_px": 1.05809,
-          "unrealized_pnl": 141.47717,
+          "unrealized_pnl": 143.40849,
           "leverage": 5
         },
         {
           "coin": "LAYER",
           "side": "short",
-          "notional": 61.75,
+          "notional": 61.31,
           "entry_px": 0.196106,
-          "unrealized_pnl": 115.920616,
+          "unrealized_pnl": 116.362744,
           "leverage": 3
         },
         {
           "coin": "WLFI",
           "side": "short",
-          "notional": 46.41,
+          "notional": 46.95,
           "entry_px": 0.202418,
-          "unrealized_pnl": 121.593689,
+          "unrealized_pnl": 121.055019,
           "leverage": 5
         },
         {
           "coin": "MOVE",
           "side": "short",
-          "notional": 34.46,
+          "notional": 33.89,
           "entry_px": 0.071702,
-          "unrealized_pnl": 289.996605,
+          "unrealized_pnl": 290.566755,
           "leverage": 3
         },
         {
           "coin": "DOGE",
           "side": "short",
-          "notional": 7.05,
+          "notional": 6.97,
           "entry_px": 0.090679,
-          "unrealized_pnl": 0.656625,
+          "unrealized_pnl": 0.73729,
           "leverage": 10
         },
         {
           "coin": "POPCAT",
           "side": "short",
-          "notional": 1.29,
+          "notional": 1.28,
           "entry_px": 0.481605,
-          "unrealized_pnl": 11.715537,
+          "unrealized_pnl": 11.720829,
           "leverage": 3
         },
         {
           "coin": "USUAL",
           "side": "short",
-          "notional": 0.79,
+          "notional": 0.78,
           "entry_px": 0.25009,
-          "unrealized_pnl": 17.363742,
+          "unrealized_pnl": 17.372454,
           "leverage": 3
         }
       ],
-      "total_notional": 1451168.28
+      "total_notional": 1442296.41
     },
     {
       "address": "0xf5d81a135f756ca16544e53c20fc20643ec3ad53",
       "display_name": null,
-      "account_value": 1719213.922888,
+      "account_value": 1718707.12101,
       "positions": [
         {
           "coin": "BTC",
-          "side": "short",
-          "notional": 817818.9,
-          "entry_px": 84505.8,
-          "unrealized_pnl": -136.819257,
+          "side": "long",
+          "notional": 576412.3,
+          "entry_px": 84308.2,
+          "unrealized_pnl": -111.166468,
           "leverage": 3
         },
         {
           "coin": "ETH",
           "side": "long",
-          "notional": 137945.0,
-          "entry_px": 2491.65,
-          "unrealized_pnl": 72.667293,
+          "notional": 368034.53,
+          "entry_px": 2481.76,
+          "unrealized_pnl": -544.271006,
           "leverage": 3
         },
         {
           "coin": "ZEC",
           "side": "long",
-          "notional": 62019.03,
-          "entry_px": 1354.4991,
-          "unrealized_pnl": 77.781113,
-          "leverage": 3
-        },
-        {
-          "coin": "SOL",
-          "side": "long",
-          "notional": 58627.06,
-          "entry_px": 108.1274,
-          "unrealized_pnl": 23.055198,
-          "leverage": 3
-        },
-        {
-          "coin": "ENA",
-          "side": "long",
-          "notional": 15579.84,
-          "entry_px": 0.217416,
-          "unrealized_pnl": 39.556161,
-          "leverage": 3
-        },
-        {
-          "coin": "XRP",
-          "side": "long",
-          "notional": 9630.63,
-          "entry_px": 1.386815,
-          "unrealized_pnl": 15.839018,
-          "leverage": 3
-        },
-        {
-          "coin": "HYPE",
-          "side": "long",
-          "notional": 8633.09,
-          "entry_px": 81.8184,
-          "unrealized_pnl": -1.20798,
+          "notional": 85174.52,
+          "entry_px": 1339.3585,
+          "unrealized_pnl": -169.403618,
           "leverage": 3
         },
         {
           "coin": "NEAR",
           "side": "long",
-          "notional": 7147.36,
-          "entry_px": 5.29879,
-          "unrealized_pnl": 12.52269,
+          "notional": 34803.39,
+          "entry_px": 5.28559,
+          "unrealized_pnl": -80.497953,
           "leverage": 3
         },
         {
-          "coin": "DOGE",
-          "side": "long",
-          "notional": 5245.68,
-          "entry_px": 0.082903,
-          "unrealized_pnl": 3.194239,
-          "leverage": 3
-        },
-        {
-          "coin": "XPL",
-          "side": "long",
-          "notional": 4598.15,
-          "entry_px": 0.083673,
-          "unrealized_pnl": 2.742749,
-          "leverage": 3
-        },
-        {
-          "coin": "VVV",
-          "side": "long",
-          "notional": 3745.83,
-          "entry_px": 27.0887,
-          "unrealized_pnl": 14.081748,
-          "leverage": 3
-        },
-        {
-          "coin": "LINK",
-          "side": "long",
-          "notional": 2648.37,
-          "entry_px": 12.69721,
-          "unrealized_pnl": 0.998632,
-          "leverage": 3
-        },
-        {
-          "coin": "LTC",
-          "side": "long",
-          "notional": 2209.03,
-          "entry_px": 61.8791,
-          "unrealized_pnl": 2.41852,
-          "leverage": 3
-        },
-        {
-          "coin": "UNI",
+          "coin": "SOL",
           "side": "short",
-          "notional": 1927.06,
-          "entry_px": 7.5685,
-          "unrealized_pnl": -2.39042,
+          "notional": 31658.2,
+          "entry_px": 107.2372,
+          "unrealized_pnl": 46.481086,
           "leverage": 3
         },
         {
-          "coin": "PONS",
+          "coin": "HYPE",
           "side": "short",
-          "notional": 1911.61,
-          "entry_px": 0.289694,
-          "unrealized_pnl": -1.945364,
-          "leverage": 3
-        },
-        {
-          "coin": "TAO",
-          "side": "long",
-          "notional": 1411.95,
-          "entry_px": 274.272,
-          "unrealized_pnl": 4.656238,
-          "leverage": 3
-        },
-        {
-          "coin": "FARTCOIN",
-          "side": "long",
-          "notional": 1331.91,
-          "entry_px": 0.15578,
-          "unrealized_pnl": 4.21004,
+          "notional": 26052.76,
+          "entry_px": 80.8881,
+          "unrealized_pnl": 6.172362,
           "leverage": 3
         },
         {
           "coin": "PUMP",
           "side": "long",
-          "notional": 1099.79,
-          "entry_px": 0.005024,
-          "unrealized_pnl": 2.804675,
+          "notional": 10063.95,
+          "entry_px": 0.005106,
+          "unrealized_pnl": -21.731607,
           "leverage": 3
         },
         {
-          "coin": "ONDO",
+          "coin": "ENA",
           "side": "long",
-          "notional": 1050.04,
-          "entry_px": 0.46639,
-          "unrealized_pnl": 1.1245,
+          "notional": 8382.28,
+          "entry_px": 0.214148,
+          "unrealized_pnl": -14.060067,
           "leverage": 3
         },
         {
-          "coin": "AAVE",
+          "coin": "XRP",
           "side": "short",
-          "notional": 944.88,
-          "entry_px": 157.3351,
-          "unrealized_pnl": -0.869047,
+          "notional": 7515.23,
+          "entry_px": 1.368556,
+          "unrealized_pnl": 6.354953,
+          "leverage": 3
+        },
+        {
+          "coin": "XPL",
+          "side": "long",
+          "notional": 5777.15,
+          "entry_px": 0.082271,
+          "unrealized_pnl": 0.0,
+          "leverage": 3
+        },
+        {
+          "coin": "VVV",
+          "side": "short",
+          "notional": 5625.27,
+          "entry_px": 27.1867,
+          "unrealized_pnl": 21.959568,
+          "leverage": 3
+        },
+        {
+          "coin": "LINK",
+          "side": "short",
+          "notional": 4307.37,
+          "entry_px": 12.5731,
+          "unrealized_pnl": 12.747897,
+          "leverage": 3
+        },
+        {
+          "coin": "DOGE",
+          "side": "short",
+          "notional": 4128.62,
+          "entry_px": 0.08204,
+          "unrealized_pnl": 1.805841,
           "leverage": 3
         },
         {
           "coin": "ARB",
           "side": "short",
-          "notional": 288.34,
-          "entry_px": 0.1945,
-          "unrealized_pnl": -0.76882,
+          "notional": 3798.77,
+          "entry_px": 0.18908,
+          "unrealized_pnl": 4.475052,
+          "leverage": 3
+        },
+        {
+          "coin": "ONDO",
+          "side": "long",
+          "notional": 3656.18,
+          "entry_px": 0.462331,
+          "unrealized_pnl": -8.25706,
+          "leverage": 3
+        },
+        {
+          "coin": "AAVE",
+          "side": "short",
+          "notional": 2640.02,
+          "entry_px": 155.5025,
+          "unrealized_pnl": -1.143941,
+          "leverage": 3
+        },
+        {
+          "coin": "WLD",
+          "side": "long",
+          "notional": 1459.21,
+          "entry_px": 0.58021,
+          "unrealized_pnl": 1.41732,
           "leverage": 3
         },
         {
           "coin": "SUI",
           "side": "short",
-          "notional": 262.23,
-          "entry_px": 1.04153,
-          "unrealized_pnl": -0.280985,
+          "notional": 1024.06,
+          "entry_px": 1.03194,
+          "unrealized_pnl": 0.140362,
           "leverage": 3
         },
         {
-          "coin": "WLD",
+          "coin": "TAO",
           "side": "short",
-          "notional": 190.11,
-          "entry_px": 0.56988,
-          "unrealized_pnl": -0.173316,
+          "notional": 1004.55,
+          "entry_px": 272.445,
+          "unrealized_pnl": 1.865795,
+          "leverage": 3
+        },
+        {
+          "coin": "FARTCOIN",
+          "side": "short",
+          "notional": 804.06,
+          "entry_px": 0.15539,
+          "unrealized_pnl": 0.207032,
+          "leverage": 3
+        },
+        {
+          "coin": "STRK",
+          "side": "short",
+          "notional": 521.11,
+          "entry_px": 0.05795,
+          "unrealized_pnl": 0.649315,
+          "leverage": 3
+        },
+        {
+          "coin": "UNI",
+          "side": "long",
+          "notional": 463.97,
+          "entry_px": 7.50614,
+          "unrealized_pnl": -1.407073,
+          "leverage": 3
+        },
+        {
+          "coin": "PONS",
+          "side": "short",
+          "notional": 448.65,
+          "entry_px": 0.287562,
+          "unrealized_pnl": 1.381603,
+          "leverage": 3
+        },
+        {
+          "coin": "kPEPE",
+          "side": "short",
+          "notional": 320.34,
+          "entry_px": 0.004666,
+          "unrealized_pnl": 1.320064,
+          "leverage": 3
+        },
+        {
+          "coin": "LTC",
+          "side": "short",
+          "notional": 137.58,
+          "entry_px": 61.4551,
+          "unrealized_pnl": 0.0788,
           "leverage": 3
         },
         {
           "coin": "USELESS",
           "side": "long",
-          "notional": 183.47,
-          "entry_px": 0.169218,
-          "unrealized_pnl": 0.714932,
-          "leverage": 3
-        },
-        {
-          "coin": "STRK",
-          "side": "long",
-          "notional": 126.33,
-          "entry_px": 0.06137,
-          "unrealized_pnl": -1.795508,
-          "leverage": 3
-        },
-        {
-          "coin": "kPEPE",
-          "side": "long",
-          "notional": 28.58,
-          "entry_px": 0.004663,
-          "unrealized_pnl": 0.043034,
-          "leverage": 3
-        },
-        {
-          "coin": "BNB",
-          "side": "short",
-          "notional": 14.97,
-          "entry_px": 590.08,
-          "unrealized_pnl": -3.1716,
-          "leverage": 3
-        },
-        {
-          "coin": "CHIP",
-          "side": "short",
-          "notional": 14.14,
-          "entry_px": 0.038816,
-          "unrealized_pnl": -3.153249,
+          "notional": 63.94,
+          "entry_px": 0.168697,
+          "unrealized_pnl": 0.00841,
           "leverage": 3
         },
         {
           "coin": "MEGA",
           "side": "long",
-          "notional": 8.62,
-          "entry_px": 0.043294,
-          "unrealized_pnl": 0.520234,
+          "notional": 28.45,
+          "entry_px": 0.046034,
+          "unrealized_pnl": -0.042711,
+          "leverage": 3
+        },
+        {
+          "coin": "BNB",
+          "side": "short",
+          "notional": 14.94,
+          "entry_px": 590.08,
+          "unrealized_pnl": -3.1424,
+          "leverage": 3
+        },
+        {
+          "coin": "CHIP",
+          "side": "short",
+          "notional": 13.56,
+          "entry_px": 0.038816,
+          "unrealized_pnl": -2.577344,
           "leverage": 3
         },
         {
           "coin": "TRUMP",
           "side": "long",
-          "notional": 1.31,
+          "notional": 1.28,
           "entry_px": 2.0514,
-          "unrealized_pnl": -0.12733,
+          "unrealized_pnl": -0.15113,
           "leverage": 3
         }
       ],
-      "total_notional": 1146643.31
+      "total_notional": 1184336.24
     },
     {
       "address": "0xe867fbdad3291530e41530301ecb77693850c78e",
       "display_name": null,
-      "account_value": 96171.091443,
+      "account_value": 91283.448053,
       "positions": [
         {
           "coin": "ZEC",
           "side": "long",
-          "notional": 339050.0,
+          "notional": 334175.0,
           "entry_px": 1426.3372,
-          "unrealized_pnl": -17534.301779,
+          "unrealized_pnl": -22409.301779,
           "leverage": 10
         }
       ],
-      "total_notional": 339050.0
+      "total_notional": 334175.0
     },
     {
       "address": "0x484bc1608211d0604bf70bae72792a56884562f8",
       "display_name": null,
-      "account_value": 421.079308,
+      "account_value": 401.013474,
       "positions": [
         {
           "coin": "FET",
           "side": "long",
-          "notional": 2089.53,
+          "notional": 2069.6,
           "entry_px": 0.188442,
-          "unrealized_pnl": 99.95266,
+          "unrealized_pnl": 80.019156,
           "leverage": 5
         }
       ],
-      "total_notional": 2089.53
+      "total_notional": 2069.6
     }
   ]
 }
